@@ -130,7 +130,7 @@ function ready() {
 		'layout': {
 		'icon-image': 'cat',
 		'icon-ignore-placement': true,
-		'icon-size': 0.1
+		'icon-size': 0.075
 	}
 })
 
@@ -166,7 +166,7 @@ function ready() {
 	// map.on("click", "corona", onClick);
 
 map.on('click', 'coronabound', function(e) {
-	console.log(e.features[0]);
+
 	new mapboxgl.Popup()
 	.setLngLat(e.lngLat)
 	.setHTML('<h3><a href="http://www.google.com/search?q=' + e.features[0].properties.Name + '+' + e.features[0].properties.Postcode + '"target="_blank">' + e.features[0].properties.Name + '</a></h3>')
