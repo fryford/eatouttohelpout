@@ -407,30 +407,7 @@ $(document).on('input', '.clearable', function(){
 
 
 
-		// if (searchCircle) {
-		// 		var features = map.queryRenderedFeatures(searchCircle, {
-		// 		layers: ['coronabound']
-		// 		});
-		//
-		// 		console.log(features);
-		//
-		// 		if (features.length >= 1000) {
-		// 		return window.alert('Select a smaller number of features');
-		// 		}
-				//
-				// // Run through the selected features and set a filter
-				// // to match features with unique FIPS codes to activate
-				// // the `counties-highlighted` layer.
-				// var filter = features.reduce(
-				// function(memo, feature) {
-				// memo.push(feature.properties.FIPS);
-				// return memo;
-				// },
-				// ['in', 'FIPS']
-				// );
-				//
-				// map.setFilter('counties-highlighted', filter);
-		}
+
 
 
 		setTimeout(function(){
