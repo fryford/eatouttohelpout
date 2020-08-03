@@ -112,7 +112,8 @@ function ready() {
 
 		map.addSource('points', {
 			type: 'vector',
-			"tiles": ["https://fryford.github.io/eatouttohelpout/tiles2/{z}/{x}/{y}.pbf"],
+			//"tiles": ["http://localhost/eatouttohelpout/eatouttohelpout/tiles4/{z}/{x}/{y}.pbf"],
+			"tiles": ["https://fryford.github.io/eatouttohelpout/tiles4/{z}/{x}/{y}.pbf"],
 			//"promoteId": { "msoacentroids": "areacd" },
 			// "buffer":0,
 			"minzoom":8,
@@ -124,7 +125,7 @@ function ready() {
 		'id': 'coronabound',
 		'type': 'symbol',
 		'source': 'points',
-		"source-layer": "restaurant",
+		"source-layer": "restaurant3",
 		"minzoom": 8,
 		"maxzoom": 21,
 		'layout': {
