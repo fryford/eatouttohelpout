@@ -113,7 +113,7 @@ function ready() {
 		map.addSource('points', {
 			type: 'vector',
 			//"tiles": ["http://localhost/eatouttohelpout/eatouttohelpout/tiles4/{z}/{x}/{y}.pbf"],
-			"tiles": ["https://fryford.github.io/eatouttohelpout/tiles4/{z}/{x}/{y}.pbf"],
+			"tiles": ["tiles4/{z}/{x}/{y}.pbf"],
 			//"promoteId": { "msoacentroids": "areacd" },
 			// "buffer":0,
 			"minzoom":8,
