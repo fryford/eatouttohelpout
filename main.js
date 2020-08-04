@@ -1,9 +1,5 @@
 var pymChild = new pym.Child();
 
-// absolute url: {{ site.absolute_url }}
-// relative url: {{ site.relative_url }}
-// base url: {{ site.baseurl }}
-
 // d3.queue()
 // 	.defer(d3.csv, "data/data.csv")
 // 	// .defer(d3.json, "data/msoacentroidshp.json")
@@ -117,7 +113,7 @@ function ready() {
 		map.addSource('points', {
 			type: 'vector',
 			//"tiles": ["http://localhost/eatouttohelpout/eatouttohelpout/tiles4/{z}/{x}/{y}.pbf"],
-			"tiles": ["tiles4/{z}/{x}/{y}.pbf"],
+			"tiles": ["https://fryford.github.io/eatouttohelpout/tiles4/{z}/{x}/{y}.pbf"],
 			//"promoteId": { "msoacentroids": "areacd" },
 			// "buffer":0,
 			"minzoom":8,
