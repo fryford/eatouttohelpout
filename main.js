@@ -1,5 +1,9 @@
 var pymChild = new pym.Child();
 
+// absolute url: {{ site.absolute_url }}
+// relative url: {{ site.relative_url }}
+// base url: {{ site.baseurl }}
+
 // d3.queue()
 // 	.defer(d3.csv, "data/data.csv")
 // 	// .defer(d3.json, "data/msoacentroidshp.json")
