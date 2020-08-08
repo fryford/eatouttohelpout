@@ -10,6 +10,7 @@ It would be infeasible to manually look up and add every chain restaurant by han
  - **Costa Coffee**: Restaurants on their [PDF list of locations](https://assets.ctfassets.net/royi30b2qd26/6iGhm7zTsmRG1HeINuLdGj/b1a48b6b9bbb677191ca8998c1baac47/eotho-store-list-200803.pdf) (fetched from [costa.co.uk](https://costa.co.uk) on 5th August), processed by [these scripts](https://gist.github.com/hithomasmorelli/fa4078a15c6565b12251ff122b34cb6c), resulting in [`costa-coffee-eotho.csv`](/chain-restaurants/costa-coffee/costa-coffee-eotho.csv)
  - **KFC**: Restaurants on their [list of participating locations](https://www.kfc.co.uk/eoho), processed by [this script](https://gist.github.com/hithomasmorelli/64f7028fdf51ac3923cbcfaf8e8e3990), resulting in [`kfc-eotho.csv`](/chain-restaurants/kfc/kfc-eotho.csv)
  - **McDonalds**: Restaurants on their [list of participating locations](https://www.mcdonalds.com/gb/en-gb/latest-updates/eatout-to-helpout.html), processed by [this script](https://gist.github.com/hithomasmorelli/4471cf91f476bdc7cfd79246617fdace/15c0728ccecf323a64bab156e83552ce717a65c7), resulting in [`mcdonalds-eotho.csv`](/chain-restaurants/mcdonalds/mcdonalds-eotho.csv)
+ - **Nando's**: Restaurants on their [list of participating locations](https://www.nandos.co.uk/halfpriceperiperi), processed by [this script](https://gist.github.com/hithomasmorelli/87d1c9ddcf644b76bb884a5912b6f198), resulting in [`nandos-eotho.csv`](/chain-restaurants/nandos/nandos-eotho.csv)
 
 
 ## A Note on Duplicate Removal <span id="duplicate-removal-header"></span>
