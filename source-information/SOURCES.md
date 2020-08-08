@@ -13,7 +13,6 @@ It would be infeasible to manually look up and add every chain restaurant by han
  - **Nando's**: Restaurants on their [list of participating locations](https://www.nandos.co.uk/halfpriceperiperi), processed by [this script](https://gist.github.com/hithomasmorelli/87d1c9ddcf644b76bb884a5912b6f198), resulting in [`nandos-eotho.csv`](/chain-restaurants/nandos/nandos-eotho.csv)
 
 
-<span id="duplicate-removal-header"></span>
 ## A Note on Duplicate Removal
 Because there are some chain restaurants that are also registered individually, I used a [script]() to check for possible duplicates at the same time as merging CSV files. If two restaurants have the same postcode **and** have a similar name,<sup id="footnote-1-from">[1](#footnote-1)</sup> they are manually checked.
 
@@ -35,4 +34,4 @@ Yes, I am. However, this was published on the same day as their previous list wa
 
 ---
 
-<sup id="footnote-1">**1**</sup> In checking two locations for a similar name, the script looks for a word of three letters or more that is present in the name of both restaurants [↩](#duplicate-removal-header)
+<sup id="footnote-1">**1**</sup> In checking two locations for a similar name, the script looks for a word of three letters or more that is present in the name of both restaurants [↩](#a-note-on-duplicate-removal)
