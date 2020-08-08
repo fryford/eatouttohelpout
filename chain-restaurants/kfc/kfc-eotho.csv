@@ -91,7 +91,7 @@ KFC,85 Derby Street,,Bolton,Greater Manchester,BL3 6HE,53.5723083,-2.4353003
 KFC,43 The Linkway,Horwich,Bolton,Greater Manchester,BL6 6JA,53.5824009,-2.5361888
 KFC,Unit 1,Waters Meeting Road,Bolton,Greater Manchester,BL1 8TT,53.5897588,-2.4294667
 KFC,577 Christchurch Road,Boscombe,Bournemouth,Dorset,BH1 4AP,50.726274,-1.840164
-KFC,7304 East Admiral Place,Tulsa,Tulsa County,,74115,36.160399,-95.895325
+KFC,42 Market Place,,Boston,Lincolnshire,PE21 6NH,52.9778575,-0.0241749
 KFC,3-5 Royal London House,The Lansdowne Roundabout,Boscombe,Bournemouth,BH8 8AA,50.7221796,-1.8658354
 KFC,59-61 Commercial Road,The Triangle,Bournemouth,Dorset,BH2 5RH,50.7203187,-1.8837806
 KFC,29 Westover Road,,Bournemouth,Dorset,BH1 2BZ,50.7187811,-1.875135
@@ -174,7 +174,7 @@ KFC,Stockbridge Road Chichester Gate Leisure Park,,Chichester,West Sussex,PO19 8
 KFC,1-2 Albert Crescent,,London,Greater London,E4 6SH,51.6173559,-0.0185453
 KFC,Unit 5 Chorley Retail Park,George Street,Chorley,Lancashire,PR7 2BN,53.6500346,-2.6277176
 KFC,182 Barrack Road,,Christchurch,Dorset,BH23 2BQ,50.7411647,-1.7963804
-KFC,Peter Leeming Road,Harewood,Christchurch,,8053,-43.4911794,172.5488291
+KFC,2 Lyndhurst Road,Somerford,Christchurch,Dorset,BH23 4SB,50.743147,-1.739989
 KFC,409 Bath Road,Cippenham,Slough,,SL1 5QL,51.519606,-0.6447419999999999
 KFC,Bridge Road,Love Lane Industrial Estate,Cirencester,Gloucestershire,GL7 1PT,51.7063789,-1.9596619
 KFC,Brook Retail Park,London Road,Clacton-on-Sea,Essex,CO15 3TP,51.8120987,1.1473984
@@ -237,7 +237,7 @@ KFC,Unit 3,Sprotbrough Road,Doncaster,South Yorkshire,DN5 8AD,53.529636,-1.14815
 KFC,Weymouth Avenue,,Dorchester,Dorset,DT1 2RY,50.701407,-2.44565
 KFC,350 High Street,,Dorking,Surrey,RH4 1QX,51.23439190000001,-0.3267205
 KFC,Honey Wood Retail Park,Whitfield,Dover,Kent,CT16 3FF,51.1528132,1.2992676
-KFC,6010 South Market Street,Dover,Pope County,,72802,35.351547,-93.1248225
+KFC,13-14 Market Square,,Dover,Kent,CT16 1NX,51.124809,1.314003
 KFC,Castlegate Drive,,Dudley,West Midlands,DY1 4TB,52.5136625,-2.0705622
 KFC,The Boulevard,Merry Hill,Brierley Hill,West Midlands,DY5 1SY,52.4791771,-2.1153234
 KFC,Unit 1,Brierley Hill,Dudley,West Midlands,DY5 1SJ,52.4808907,-2.1110035
@@ -336,7 +336,7 @@ KFC,Green Services,,Gretna,Dumfries and Galloway,DG16 5HQ,55.00811119999999,-3.0
 KFC,Birchin Way,Pyewipe Road,Unit,Grimsby,DN31 2SG,53.5743483,-0.09732829999999999
 KFC,The Friary centre,,Guildford,Surrey,GU1 4YN,51.237062,-0.5763533
 KFC,Ropemaker Park,South Road,Hailsham,East Sussex,BN27 3JJ,50.8589724,0.2523775
-KFC,877 East Saint George Boulevard,St. George,Washington County,,84770,37.1101252,-113.5648128
+KFC,4 George Street,,Halifax,West Yorkshire,HX1 1HA,53.722518,-1.862550
 KFC,81 Haley Hill,,Halifax,West Yorkshire,HX3 6ED,53.7287633,-1.8614896
 KFC,Palace grounds retail park,Palace Grounds Road,Hamilton,South Lanarkshire,ML3 6AD,55.779149,-4.029052
 KFC,90 King Street,,London,Greater London,W6 0QW,51.4926701,-0.2297
@@ -524,7 +524,7 @@ KFC,309 Chapel Field East Intu Chapelfield,,Norwich,Norfolk,NR2 1SF,52.626030000
 KFC,William Frost Way,Dereham Road,Costessey,Norwich,NR5 0JS,52.6538603,1.1848863
 KFC,Mile Cross Lane,,Norwich,Norfolk,NR6 6SD,52.6579133,1.2839072
 KFC,Sprowston retail park,Salhouse Road,Norwich,Norfolk,NR7 9AZ,52.646621,1.3271684
-KFC,4478 Montgomery Road,Norwood,Hamilton County,,45212,39.1588719,-84.45577089999999
+KFC,489-491 Norwood Road,,West Norwood,London,SE27 9NJ,51.435766,-0.104075
 KFC,515 Alfreton Road,,Nottingham,,NG7 5NH,52.9641913,-1.1801017
 KFC,Clifton Lane,Clifton,Nottingham,,NG11 8NA,52.9059687,-1.188182
 KFC,4 Cross Street Retail Park,Long Eaton,Nottingham,Derbyshire,NG10 1HD,52.897795,-1.2689107
@@ -555,7 +555,7 @@ KFC,32 Rye Lane,London,Pechkam,Greater London,SE15 5BS,51.47176630000001,-0.0699
 KFC,787 Ormskirk Road,Pemberton,Wigan,Greater Manchester,WN5 3EY,53.536643,-2.685084
 KFC,Unit 1 COLMAN HOUSE,High Street,London,Greater London,SE20 7EX,51.4146659,-0.0528533
 KFC,Chester Road,,Sunderland,Tyne and Wear,SR4 9EN,54.89171520000001,-1.4525435
-KFC,38 Mulgoa Road,Penrith,Penrith City Council,,2750,-33.7602016,150.6838136
+KFC,Bridge Lane,,Penrith,,CA11 8HW,54.655483,-2.744375
 KFC,Jelbert Way Heliport Link Road,,Penzance,Cornwall,TR18 3RG,50.1292182,-5.5140727
 KFC,One Stop Retail Park,Walsall Road,Perry Barr,Birmingham,B42 1AA,52.5189269,-1.9046214
 KFC,Saint Catherines Retail Park,Dunkeld Road,Perth,Perth and Kinross,PH1 5RG,56.4003203,-3.4397486
@@ -605,10 +605,10 @@ KFC,29 Wellington Road,,Rhyl,Denbighshire,LL18 1SD,53.319409,-3.4913274
 KFC,KINGSWAY RETAIL PARK,,Rochdale,Greater Manchester,OL16 5AF,53.61411649999999,-2.1305805
 KFC,Unit 1A Cherry Orchard Way,,Rochford,Essex,SS4 1GP,51.5702085,0.6782062999999999
 KFC,89 Saint Paul's Road,Rock Ferry,Birkenhead,Merseyside,CH42 1LJ,53.3765189,-3.0097988
-KFC,1354 East Broad Avenue,Rockingham,Richmond County,,28379,34.9204238,-79.74863289999999
+KFC,36 Dearne Valley Parkway,Rockingham Gateway,Birdwell,Barnsley,S70 5TW,53.502715,-1.473071
 KFC,Colchester Road,Harold Wood,Romford,Greater London,RM3 8AA,51.59315429999999,0.2140092
 KFC,48-50 South Street,,Romford,Greater London,RM1 1RB,51.5771045,0.1818564
-KFC,Ross-on-Wye HR9,Ross-on-Wye,Ross-on-Wye,Herefordshire,HR9,51.91445,-2.582446
+KFC,Ross-on-Wye,Ross-on-Wye,Ross-on-Wye,Herefordshire,HR9 7US,51.91445,-2.582446
 KFC,Canklow Road,,Rotherham,South Yorkshire,S60 2JH,53.4151592,-1.3621255
 KFC,Fitzwilliam Road,Eastwood,Rotherham,South Yorkshire,S65 1EN,53.4424278,-1.3238547
 KFC,Business Park,Manvers Way,Wath upon Dearne,Waterfront,S63 7DQ,53.5106451,-1.358416
@@ -619,7 +619,7 @@ KFC,Hospital Way,Palacefields,Hallwood,Runcorn,WA7 2HQ,53.3255364,-2.6968299
 KFC,4,Broadmark Lane,Rustington,Littlehampton,BN16 2NN,50.8102367,-0.5048387
 KFC,Regent Road,,Salford,Greater Manchester,M5 4QU,53.4755088,-2.2646333
 KFC,37 Hankinson Way,,Salford,Greater Manchester,M6 5JP,53.4899911,-2.2857233
-KFC,3663 South High Street,Columbus,Franklin County,,43207,39.8858491,-82.9998166
+KFC,High Street,,Stoke-on-Trent,,ST6 5EN,53.069739,-2.216471
 KFC,28 Huntriss Row,,Scarborough,North Yorkshire,YO11 2EF,54.2814267,-0.4000471
 KFC,Doncaster Road,,Scunthorpe,North Lincolnshire,DN15 8TE,53.5888414,-0.6938388
 KFC,Unit 2 Lakeside Retail Park,Retail Park,Scunthorpe,North Lincolnshire,DN16 3UA,53.5653576,-0.6171281
@@ -734,8 +734,8 @@ KFC,618,Hawleys Lane,Warrington,,WA2 8TW,53.4106712,-2.5974526
 KFC,Kingsway South,Latchford,Warrington,,WA4 1TH,53.3821011,-2.5606974
 KFC,Old Liverpool Road N/A,,Warrington,,WA5 1AF,53.3882258,-2.6096066
 KFC,"12 13, M40",Banbury Road,Warwick,Warwickshire,CV35 0AA,52.215964,-1.5055215
-KFC,"12 13, M40",Banbury Road,Warwick,Warwickshire,CV35 0AA,52.215964,-1.5055215
-KFC,800,Washington Square Center,Washington,Franklin County,63090,38.5372375,-91.0050887
+KFC,"12 13, M40",Banbury Road,Warwick,Warwickshire,CV35 0AA,52.218666,-1.502861
+KFC,The Galleries,The Galleries Retail Park,Washington,Tyne and Wear,NE38 7RU,54.900785,-1.532859
 KFC,Watford WD17 2SF,,Watford,Hertfordshire,WD17 2SF,51.64935269999999,-0.3896864
 KFC,56 High Street,,Watford,Hertfordshire,WD17 2BS,51.6562156,-0.3973223
 KFC,138-140 Saint Albans Road,,Watford,Hertfordshire,WD24 4FT,51.6686261,-0.3976454
