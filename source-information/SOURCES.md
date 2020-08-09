@@ -16,7 +16,7 @@ It would be infeasible to manually look up and add every chain restaurant by han
 
 
 ## A Note on Duplicate Removal
-Because there are some chain restaurants that are also registered individually, I used a [script]() to check for possible duplicates at the same time as merging CSV files. If two restaurants have the same postcode **and** have a similar name<sup id="footnote-1-from">[1](#footnote-1)</sup>, they are manually checked.
+Because there are some chain restaurants that are also registered individually, I used a [script](https://gist.github.com/hithomasmorelli/cf4c265269a2a9b46404c6ce9846bb1a) to check for possible duplicates at the same time as merging CSV files. If two restaurants have the same postcode **and** have a similar name<sup id="footnote-1-from">[1](#footnote-1)</sup>, they are manually checked.
 
 At the same time as checking chain restaurant listings for duplicates, this script also checks the invididually registered list published by HMRC. Because of this, the final CSV file may be missing some rows from HMRC's.
 
