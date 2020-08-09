@@ -12,6 +12,7 @@ It would be infeasible to manually look up and add every chain restaurant by han
  - **McDonalds**: Restaurants on their [list of participating locations](https://www.mcdonalds.com/gb/en-gb/latest-updates/eatout-to-helpout.html), processed by [this script](https://gist.github.com/hithomasmorelli/4471cf91f476bdc7cfd79246617fdace/15c0728ccecf323a64bab156e83552ce717a65c7), resulting in [`mcdonalds-eotho.csv`](/chain-restaurants/mcdonalds/mcdonalds-eotho.csv)
  - **Nando's**: Restaurants on their [list of participating locations](https://www.nandos.co.uk/halfpriceperiperi), processed by [this script](https://gist.github.com/hithomasmorelli/87d1c9ddcf644b76bb884a5912b6f198), resulting in [`nandos-eotho.csv`](/chain-restaurants/nandos/nandos-eotho.csv)
  - **Pret A Manger**: Restaurants on their [list of participating locations](https://www.pret.co.uk/en-GB/eat-out-to-help-out), processed by [this script](https://gist.github.com/hithomasmorelli/21bf84e055f21a6eefb727b629f0c5bb), resulting in [`pret-eotho.csv`](/chain-restaurants/pret/pret-eotho.csv)
+ - **Wetherspoon**: All of [their UK pubs](https://www.jdwetherspoon.com/pubs/all-pubs) (all UK Wetherspoons pubs are [participating](https://www.jdwetherspoon.com/news/2020/07/eat-out-to-help-out)), processed by [this script](https://gist.github.com/hithomasmorelli/3d34cfe05c0211e5a500db37e02b8f8f), resulting in [`wetherspoon-eotho.csv`](/chain-restaurants/wetherspoon/wetherspoon-eotho.csv)
 
 
 ## A Note on Duplicate Removal
