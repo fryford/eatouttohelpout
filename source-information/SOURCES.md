@@ -37,6 +37,6 @@ Yes, I am. However, this was published on the same day as their previous list wa
 
 ---
 
-<sup id="footnote-1">**1**</sup> Whitbread restaurant brands are: **Bar + Block**, **Beefeater**, **Brewers Fayre**, **Cookhouse + Pub**, **Table Table**, **Whitbread Inns**, **Breakfast Room (Premier Inn)**, **hub by Premier Inn**, **[The] Kitchen (Premier Inn)**, **Lounge Bar (Premier Inn)**, **ProvenDough (Premier Inn)**, **Thyme (Premier Inn)**, **ZIP by Premier Inn**[↩](#chain-restaurants)
+<sup id="footnote-1">**1**</sup> Whitbread restaurant brands are: **Bar + Block**, **Beefeater**, **Brewers Fayre**, **Cookhouse + Pub**, **Table Table**, **Whitbread Inns**, **Breakfast Room (Premier Inn)**, **hub by Premier Inn**, **[The] Kitchen (Premier Inn)**, **Lounge Bar (Premier Inn)**, **ProvenDough (Premier Inn)**, **Thyme (Premier Inn)**, **ZIP by Premier Inn** [↩](#chain-restaurants)
 
 <sup id="footnote-2">**2**</sup> In checking two locations for a similar name, the script looks for a word of three letters or more that is present in the name of both restaurants [↩](#a-note-on-duplicate-removal)
