@@ -125,7 +125,7 @@ function ready() {
 		'id': 'coronabound',
 		'type': 'symbol',
 		'source': 'points',
-		"source-layer": "restaurant3",
+		"source-layer": "combinedrestaurants",
 		"minzoom": 8,
 		"maxzoom": 21,
 		'layout': {
