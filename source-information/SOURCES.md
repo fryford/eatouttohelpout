@@ -13,10 +13,11 @@ It would be infeasible to manually look up and add every chain restaurant by han
  - **Nando's**: Restaurants on their [list of participating locations](https://www.nandos.co.uk/halfpriceperiperi), processed by [this script](https://gist.github.com/hithomasmorelli/87d1c9ddcf644b76bb884a5912b6f198), resulting in [`nandos-eotho.csv`](/chain-restaurants/nandos/nandos-eotho.csv)
  - **Pret A Manger**: Restaurants on their [list of participating locations](https://www.pret.co.uk/en-GB/eat-out-to-help-out), processed by [this script](https://gist.github.com/hithomasmorelli/21bf84e055f21a6eefb727b629f0c5bb), resulting in [`pret-eotho.csv`](/chain-restaurants/pret/pret-eotho.csv)
  - **Wetherspoon**: All of [their UK pubs](https://www.jdwetherspoon.com/pubs/all-pubs) (all UK Wetherspoons pubs are [participating](https://www.jdwetherspoon.com/news/2020/07/eat-out-to-help-out)), processed by [this script](https://gist.github.com/hithomasmorelli/3d34cfe05c0211e5a500db37e02b8f8f), resulting in [`wetherspoon-eotho.csv`](/chain-restaurants/wetherspoon/wetherspoon-eotho.csv)
+ - **Whitbread**<sup>[1](#footnote-1)</sup>: Restaurants on their [list of participating locations](https://www.whitbread.co.uk/media/press-releases/2020/27-07-20-eat-out-to-help-out), processed by [this script](https://gist.github.com/hithomasmorelli/15a891eaae52fc8a777308eef2515270), resulting in [`whitbread-eotho.csv`](/chain-restaurants/whitbread/whitbread-eotho.csv)
 
 
 ## A Note on Duplicate Removal
-Because there are some chain restaurants that are also registered individually, I used a [script](https://gist.github.com/hithomasmorelli/cf4c265269a2a9b46404c6ce9846bb1a) to check for possible duplicates at the same time as merging CSV files. If two restaurants have the same postcode **and** have a similar name<sup id="footnote-1-from">[1](#footnote-1)</sup>, they are manually checked.
+Because there are some chain restaurants that are also registered individually, I used a [script](https://gist.github.com/hithomasmorelli/cf4c265269a2a9b46404c6ce9846bb1a) to check for possible duplicates at the same time as merging CSV files. If two restaurants have the same postcode **and** have a similar name<sup>[2](#footnote-2)</sup>, they are manually checked.
 
 At the same time as checking chain restaurant listings for duplicates, this script also checks the invididually registered list published by HMRC. Because of this, the final CSV file may be missing some rows from HMRC's.
 
@@ -36,4 +37,6 @@ Yes, I am. However, this was published on the same day as their previous list wa
 
 ---
 
-<sup id="footnote-1">**1**</sup> In checking two locations for a similar name, the script looks for a word of three letters or more that is present in the name of both restaurants [↩](#a-note-on-duplicate-removal)
+<sup id="footnote-1">**1**</sup> Whitbread restaurant brands are: **Bar + Block**, **Beefeater**, **Brewers Fayre**, **Cookhouse + Pub**, **Table Table**, **Whitbread Inns**, **Breakfast Room (Premier Inn)**, **hub by Premier Inn**, **[The] Kitchen (Premier Inn)**, **Lounge Bar (Premier Inn)**, **ProvenDough (Premier Inn)**, **Thyme (Premier Inn)**, **ZIP by Premier Inn**[↩](#chain-restaurants)
+
+<sup id="footnote-2">**2**</sup> In checking two locations for a similar name, the script looks for a word of three letters or more that is present in the name of both restaurants [↩](#a-note-on-duplicate-removal)
