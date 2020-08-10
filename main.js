@@ -113,7 +113,7 @@ function ready() {
 		map.addSource('points', {
 			type: 'vector',
 			//"tiles": ["http://localhost/eatouttohelpout/eatouttohelpout/tiles4/{z}/{x}/{y}.pbf"],
-			"tiles": ["https://hithomasmorelli.github.io/eotho-map/tiles/2020-08-10/{z}/{x}/{y}.pbf"],
+			"tiles": ["https://fryford.github.io/eatouttohelpout/tiles/2020-08-10/{z}/{x}/{y}.pbf"],
 			//"promoteId": { "msoacentroids": "areacd" },
 			// "buffer":0,
 			"minzoom":8,
