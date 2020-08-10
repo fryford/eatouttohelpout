@@ -1,0 +1,766 @@
+Name,Line 1,Line 2,Town,County,Postcode,lat,lng
+Bar + Block Aldgate,66 Alie Street,,London,Greater London,E1 8PX,51.5139696,-0.0702593
+Bar + Block Bath,4 James Street West,,Bath,Bath and North East Somerset,BA1 2BX,51.3806321,-2.3644478
+Bar + Block Belfast,2-6 Waring Street,,Belfast,,BT1 2DX,54.6008637,-5.9275315
+Bar + Block Birmingham,3-6 Waterloo Street,,Birmingham,West Midlands,B2 5PG,52.4803937,-1.8996182
+Bar + Block Kings Cross,26-30 York Way,,London,Greater London,N1 9AA,51.5318264,-0.1223087
+Bar + Block Leamington Spa,148-150,Parade,Leamington Spa,Warwickshire,CV32 4AG,52.28894630000001,-1.5357969
+Bar + Block Newcastle,95 Newgate Street,,Newcastle upon Tyne,Tyne and Wear,NE1 5RF,54.9732539,-1.6181003
+Bar + Block Portsmouth Dockyard,Queen Street,Portsea,Portsmouth,,PO1 3EE,50.7994006,-1.1060857
+Bar + Block Whiteley,Whiteley Shopping Centre,Whiteley Way,Whiteley,Fareham,PO15 7PD,50.8862129,-1.2484946
+Bar + Block Wimbledon,153-161 The Broadway,,London,Greater London,SW19 1NE,51.4190614,-0.1986644
+Bar + Block Winnersh,Reading Road,Winnersh,Wokingham,,RG41 5HQ,51.4372401,-0.8950889999999999
+Beefeater Anchor,Lakeside Parkway,,Scunthorpe,North Lincolnshire,DN16 3UA,53.5634313,-0.6151871
+Beefeater Badgers Sett,Birmingham Road,Hagley,Stourbridge,Worcestershire,DY9 9JS,52.4312367,-2.1051174
+Beefeater Bagle Brook,Pentyla-Baglan Road,Baglan,Port Talbot,Neath Port Talbot Principle Area,SA12 8ES,51.6151691,-3.8073571
+Beefeater Balmoral Inn,Romsey Road,Nursling,Southampton,Hampshire,SO16 0XJ,50.945294,-1.461716
+Beefeater Bamford Arms,Buxton Road,Heaviley,Stockport,Stockport,SK2 6NB,53.396317,-2.1495706
+Beefeater Belgrave,Belgrave Road,,Torquay,Torbay,TQ2 5HE,50.46361599999999,-3.5354565
+Beefeater Bentley Green,Bentley Road North,,Walsall,West Midlands,WS2 0WB,52.5817938,-2.0267361
+Beefeater Black Bear,601 Hamilton Road,Uddingston,Glasgow,Glasgow City,G71 7SA,55.8369596,-4.1103504
+Beefeater Border Gate,Carleton,Carleton,Carlisle,Cumbria,CA4 0AD,54.85891780000001,-2.8796839
+Beefeater Bridge Barn,Bridge Barn Lane,Horsell,Woking,Surrey,GU21 6NL,51.317183,-0.574828
+Beefeater Bristol Fashion,The Haymarket,,Bristol,Bristol City,BS1 3LR,51.459024,-2.5915336
+Beefeater Broomside Park,Belmont Industrial Estate,Broomside Lane,Durham,County Durham,DH1 1GG,54.7867749,-1.5425925
+Beefeater Buckingham,Needlepin Way,,Buckingham,Buckinghamshire,MK18 1SH,51.9885061,-0.9772417
+Beefeater Carnon Inn,Old Carnon Hill,Carnon Downs,Truro,Cornwall,TR3 6JZ,50.2260072,-5.082799500000001
+Beefeater Christie Field,Derwent Avenue,West Didsbury,Manchester,Greater Manchester,M21 7QS,53.4255285,-2.257436
+Beefeater Cirencester,Cricklade Road,,Cirencester,Gloucestershire,GL7 1NP,51.7078679,-1.9544218
+Beefeater Coach & Horses,Newport Road,Castleton,Cardiff,Newport,CF3 2UQ,51.5464533,-3.0781002
+Beefeater Coreys Mill,Coreys Mill Lane,,Stevenage,Hertfordshire,SG1 4AA,51.9236043,-0.2163011
+Beefeater Countess Wear,398 Topsham Road,,Exeter,Devon,EX2 6HE,50.7003736,-3.4944436
+Beefeater Crooked Lum,Brunel Way,East Kilbride,Glasgow,South Lanarkshire,G75 0JY,55.7577595,-4.1707449
+Beefeater Cross Hands,Tewkesbury Road,Uckington,Cheltenham,Gloucestershire,GL51 9SL,51.916353,-2.1054664
+Beefeater Crossbush,Crossbush Lane,,Arundel,West Sussex,BN18 9PQ,50.8457198,-0.540458
+Beefeater Crows Nest,Tring Hill,,Tring,Buckinghamshire,HP23 4LD,51.7934592,-0.6929489999999999
+Beefeater Deer Park,Deer Park Avenue Deer Park,,Livingston,Deans,EH54 8AD,55.9153154,-3.52593
+Beefeater Dog & Duck,London Road,,Wellingborough,Northamptonshire,NN8 2DP,52.2931557,-0.6838014
+Beefeater Downshire Arms,Downshire Way,,Bracknell,Bracknell Forest,RG12 7AA,51.4121441,-0.7587176
+Beefeater Dundee,Riverside Drive,,Dundee,Dundee City Council,DD1 4XA,56.45598529999999,-2.9700534
+Beefeater Emersons Green,200-202 Westerleigh Road,Emersons Green,Bristol,South Gloucestershire,BS16 7AN,51.498421,-2.480489
+Beefeater Eureka Park,Eureka Leisure Park,,Ashford,Kent,TN25 4BN,51.1625727,0.8700924999999999
+Beefeater Euston Way,Euston Way,Overdale,Telford,Shropshire,TF3 4LY,52.681225,-2.4393501
+Beefeater Farnborough Town Centre,3 Kingsmead,,Farnborough,Hampshire,GU14 7SJ,51.2936578,-0.7549773
+Beefeater Farnham,Guildford Road,,Farnham,Surrey,GU9 9QJ,51.2190225,-0.7827170999999999
+Beefeater Frome Flyer,commerce park,Jenson Avenue,Frome,Somerset,BA11 2LD,51.24474559999999,-2.2906957
+Beefeater George In The Tree,Kenilworth Road,Balsall Common,Coventry,West Midlands,CV7 7EX,52.3996565,-1.6558242
+Beefeater Glegg Arms,Chester Road,,Wirral,Merseyside,CH60 3SD,53.32236150000001,-3.0836109
+Beefeater Gloucester Quayside,St Ann's Way Bakers Quay,,Gloucester,Gloucestershire,GL1 5SF,51.8587917,-2.2548899
+Beefeater Gourdie Croft,Kingsway West,,Dundee,Dundee City Council,DD2 5JU,56.47028599999999,-3.059666
+Beefeater Great Oak,Buckmore Farm,Winchester Road,Petersfield,Hampshire,GU32 3SB,51.0092331,-0.9477303
+Beefeater Griff House,Coventry Road,Griff,Nuneaton,Warwickshire,CV10 7PJ,52.4965388,-1.4737399
+Beefeater Halfway House,350 Luton Road,,Dunstable,Central Bedfordshire,LU5 4LL,51.8914172,-0.4863595
+Beefeater Halifax Town Centre,Broad Street,Plaza,Halifax,West Yorkshire,HX1 1YA,53.7252027,-1.861444
+Beefeater Harbour Lights,1 Southampton Road,Cosham,North Harbour,Portsmouth,PO6 4SA,50.846315,-1.091832
+Beefeater Harlow Mill,Cambridge Road,Old Harlow,Harlow,Essex,CM20 2EP,51.7946738,0.1310223
+Beefeater Heald Green,Finney Lane Heald Green,Wythenshawe,Cheadle,Greater Manchester,SK8 3QH,53.370178,-2.2380488
+Beefeater Heaton Park (Manchester),Middleton Road,Crumpsall,Manchester,Greater Manchester,M8 4NB,53.5297812,-2.2456561
+Beefeater Highwayman,Baslow Road,Eastmoor,Chesterfield,Derbyshire,S42 7DA,53.2378443,-1.5418082
+Beefeater Hilden Manor,London Road,,Tonbridge,Kent,TN10 3AN,51.20625320000001,0.2612713
+Beefeater Lady Nairne,228 Willowbrae Road,,Edinburgh,,EH8 7NG,55.9465385,-3.1372565
+Beefeater Liberty Bell,Mercury Gardens,,Romford,Greater London,RM1 3EN,51.5779446,0.1865155
+Beefeater Loch Ness House,Glenurquhart Road,,Inverness,Highland Council,IV3 5TD,57.4646687,-4.246557999999999
+Beefeater London Hayes,Millington Road,,Hayes,Greater London,UB3 4AZ,51.5022106,-0.4265946
+Beefeater London Uxbridge,Riverside Way,,Uxbridge,Greater London,UB8 2YF,51.5425334,-0.489846
+Beefeater London Woolwich,Beresford Street,,London,Greater London,SE18 6BF,51.4927322,0.0673483
+Beefeater Long Reach,Thanet Way,,Whitstable,Kent,CT5 3DB,51.341465,1.019899
+Beefeater Longford House,Watling Street,,Cannock,Staffordshire,WS11 1SJ,52.6798687,-2.0491916
+Beefeater Longford Inn,Tewkesbury Road,Longford,Gloucester,Gloucestershire,GL2 9BE,51.8808786,-2.2397047
+Beefeater Malta Inn,Allington Lock Sandling Nr,,Maidstone,Kent,ME14 3AS,51.29590229999999,0.5079003
+Beefeater Manor Farm,High Street,Gillingham,Rainham,Gillingham,ME8 7JE,51.36469109999999,0.6033402999999999
+Beefeater Manor Inn,Guildford Road,,Godalming,Surrey,GU7 3BX,51.196129,-0.592727
+Beefeater Marsh Mills,300 Plymouth Road,Crabtree,Plymouth,,PL3 6RW,50.3909171,-4.088945499999999
+Beefeater Medina Quay,Fairlee Road,,Newport,Isle of Wight,PO30 2DN,50.7068412,-1.2905139
+Beefeater Merry Monk,Mercia Park,,Burton-on-Trent,Staffordshire,DE14 2DQ,52.795568,-1.6614206
+Beefeater Micklehead Green,Euro Link Lea Green,,Saint Helens,Merseyside,WA9 4TT,53.4176244,-2.7449405
+Beefeater Mill House,Brighton Road,Salfords,Redhill,Surrey,RH1 5BT,51.20564,-0.166967
+Beefeater Mill Lodge,Lincoln Road,,Lincoln,Lincolnshire,LN4 2RF,53.21148609999999,-0.5236898999999999
+Beefeater Millers Barn,The Phoenix centre,Cinder Hill Road,Nottingham,,NG8 6AS,52.98776729999999,-1.2080155
+Beefeater Monkey Puzzle (Chessington),Leatherhead Road,,Chessington,Greater London,KT9 2NE,51.3468324,-0.3154635
+Beefeater Moor Farm,Annitsford,Annitsford,Cramlington,Northumberland,NE23 7QA,55.06532,-1.5815538
+Beefeater Moor Mill,Smug Oak Lane,Bricket Wood,Radlett,St Albans,AL2 3PN,51.7089961,-0.3364599
+Beefeater Morris Dancers,Southport Road,Scarisbrick,Ormskirk,Lancashire,L40 9RG,53.610131,-2.934385
+Beefeater Morton Park,Morton Park Way,,Darlington,,DL1 4PJ,54.518695,-1.5034174
+Beefeater Moseley Park,Business Park,Greenfield Lane,Wolverhampton,West Midlands,WV10 6TA,52.635855,-2.124004
+Beefeater Norman Jepson,Bluebell Way,Fulwood,Preston,Lancashire,PR2 5PZ,53.7900182,-2.6586183
+Beefeater Oast & Squire,Peak Lane,The Avenue,Fareham,Hampshire,PO14 1RJ,50.8510168,-1.2114777
+Beefeater Ock Mill,Marcham Road,,Abingdon,Oxfordshire,OX14 1AD,51.669531,-1.2986881
+Beefeater Orchard,Ickenham Road,,Ruislip,Greater London,HA4 7DR,51.5729463,-0.4311608
+Beefeater Oxford North,Langford Lane,Kidlington,Oxford,Oxfordshire,OX5 1RA,51.8301752,-1.3122211
+Beefeater Oyster Reach,Bourne Hill,Wherstead,Ipswich,Suffolk,IP2 8ND,52.0330551,1.1500779
+Beefeater Packet Steamer,Northern Perimeter Road,,Bootle,Merseyside,L30 7PT,53.4900568,-2.9565854
+Beefeater Pavilion,Hutton Moor Road,,Weston-super-Mare,North Somerset,BS22 8LY,51.3438841,-2.9498329
+Beefeater Pemberton,Llandafen Road,,Llanelli,Carmarthenshire,SA14 9BD,51.68189659999999,-4.132949099999999
+Beefeater Preston Brook,Chester Road,Murdishaw,Runcorn,Runcorn,WA7 3BB,53.3145531,-2.6641998
+Beefeater Priory Marina,Barkers Lane,,Bedford,,MK41 9DJ,52.13226539999999,-0.4375185
+Beefeater Quay House,Quays,The Quays,Salford,Greater Manchester,M50 3SQ,53.4714085,-2.2880199
+Beefeater Rackstraw Farm,221 Yorktown Road,College Town,Sandhurst,Bracknell Forest,GU47 0RT,51.34570309999999,-0.7860358
+Beefeater Reading Gateway,Imperial Way,,Reading,,RG2 0TA,51.4174193,-0.9735747
+Beefeater Red House,Redbridge Lane East,,Ilford,Greater London,IG4 5BG,51.5768286,0.0450226
+Beefeater Redditch North,Bordesley Lane,,Redditch,Worcestershire,B97 6AQ,52.315987,-1.939
+Beefeater Roman Way,Lincoln Road,,Newark,Nottinghamshire,NG24 2DB,53.09271940000001,-0.7903074999999999
+Beefeater Royal Oak,London Road Wrotham Heath,Wrotham Heath,Sevenoaks,Kent,TN15 7RX,51.2977552,0.3422012
+Beefeater Rusty Cutter,65 Bedhampton Hill Road,Bedhampton,Havant,Hampshire,PO9 3JN,50.8512648,-1.0109175
+Beefeater Smugglers Haunt,Ringwood Road,,Ferndown,Dorset,BH22 9BB,50.810726,-1.874612
+Beefeater Springwood Park,Tytherington Business Park,Springwood Way,Tytherington,Macclesfield,SK10 2XA,53.2848661,-2.1229935
+Beefeater Spruce Goose,Basingstoke Leisure Park,Worting Road,Basingstoke,Hampshire,RG22 6PG,51.2647748,-1.1170167
+Beefeater Stag and Rainbow,10 Queens Drive West Derby,,Liverpool,Merseyside,L13 0DL,53.42668339999999,-2.9178857
+Beefeater Starting Gate,Holmer Road,Holmer,Hereford,Herefordshire,HR4 9RS,52.0749329,-2.7225133
+Beefeater Stirling City Centre,Forthside Way,,Stirling,,FK8 1QZ,56.1182955,-3.9296553
+Beefeater Strawberry Field,Off Thanet Grange,Prince Avenue,Southend-on-Sea,,SS2 6GB,51.5622373,0.6814541
+Beefeater Tattenham Corner,Epsom Downs,Tattenham Crescent,Epsom,Surrey,KT18 5NY,51.3116435,-0.2435668
+Beefeater The Acorn,Charles Avenue,,Burgess Hill,West Sussex,RH15 9TQ,50.9511269,-0.150694
+Beefeater The Barn (Hockley Heath),Stratford Road,Hockley Heath,Solihull,West Midlands,B94 6NX,52.3581481,-1.780327
+Beefeater The Barn (Milton Keynes),Secklow Gate West,,Milton Keynes,,MK9 3BZ,52.03976,-0.7520125999999999
+Beefeater The Boathouse,Castle Marina Road,Castle Bridge Road,Park,Nottingham,NG7 1GX,52.945045,-1.1660703
+Beefeater The Brache,Osborne Road,,Luton,,LU1 3HJ,51.873503,-0.402096
+Beefeater The Brecks,Wickersley Road,,Rotherham,South Yorkshire,S65 3JB,53.4199318,-1.3080506
+Beefeater The Bull,London Road,,Swanley,Kent,BR8 7QD,51.405729,0.1586222
+Beefeater The Castle,Greenlaw Road,Crookfur Road,Newton Mearns,Glasgow,G77 6NP,55.784467,-4.348343
+Beefeater The Coldra,Junction,Chepstow Road,Newport,,NP18 2NX,51.6023963,-2.922378
+Beefeater The Cricketers,1 London Road,,Bagshot,Surrey,GU19 5HR,51.36923119999999,-0.6885667999999999
+Beefeater The Duck,176 Hagley Road,,Birmingham,West Midlands,B16 9NY,52.4715381,-1.9401228
+Beefeater The Farmhouse,Coppenhall Lane,,Crewe,Cheshire East,CW2 8SD,53.0953838,-2.4848883
+Beefeater The Fountain,Staines Road,,Twickenham,Greater London,TW2 5PE,51.43913999999999,-0.3603290000000001
+Beefeater The Foxburrow,249 Yarmouth Road,,Lowestoft,Suffolk,NR32 4AA,52.498635,1.7335063
+Beefeater The Granary,Ham Lane,,Peterborough,,PE2 5UU,52.5568857,-0.298552
+Beefeater The Grandstand,Racecourse,Newton Road,Kingsteignton,Newton Abbot,TQ12 3AF,50.5405703,-3.6001243
+Beefeater The Grapes,362 Uxbridge Road,,Hayes,Greater London,UB4 0HF,51.5181018,-0.4059952
+Beefeater The Haywain (Basildon),High Road,Fobbing,Stanford-le-Hope,Essex,SS17 9NR,51.550584,0.466687
+Beefeater The Hut,Bournemouth Road,Chandler's Ford,Eastleigh,Hampshire,SO53 3DJ,50.9789399,-1.3852788
+Beefeater The Kingswinford,Dudley Road,,Kingswinford,West Midlands,DY6 8WT,52.5002493,-2.1519709
+Beefeater The Kingswood,Kingswood Parks,Ennerdale,Hull,Kingston upon Hull,HU7 3DD,53.7936188,-0.3508146
+Beefeater The Ladybridge,Bonehill Road,,Tamworth,Staffordshire,B78 3HQ,52.62934,-1.7016056
+Beefeater The Lakeside,White Rose Way,,Doncaster,South Yorkshire,DN4 5PJ,53.5066049,-1.1121458
+Beefeater The Longbow,Magden Park Gwaun Elai,Ynysmaerdy,Pontyclun,Rhondda Cynon Taff,CF72 8XL,51.54358,-3.3883144
+Beefeater The Longwall,Oxford Business Park,Garsington Road,Cowley,Oxford,OX4 2JT,51.731051,-1.203144
+Beefeater The Lydiard,Lydiard Fields,Great Western Way,Swindon,Wiltshire,SN5 8UB,51.5481165,-1.8523121
+Beefeater The Mallard,Southmead Way,,Derby,,DE22 3HN,52.9127887,-1.5137236
+Beefeater The Millfield,York Business Park,White Rose Close,Nether Poppleton,York,YO26 6RL,53.9802955,-1.1329477
+Beefeater The Newhouse,Edinburgh Road,Newhouse,Motherwell,North Lanarkshire,ML1 5SY,55.8311195,-3.9299672
+Beefeater The Observatory,Meridian Business Park,Thorpe Astley,Leicester,Leicestershire,LE19 1LU,52.6129887,-1.1913581
+Beefeater The Orchard,Twyford Gardens,,Evesham,Worcestershire,WR11 4TP,52.1128276,-1.938486
+Beefeater The Parkway,Parkway,,Guildford,Surrey,GU1 1UP,51.2481833,-0.5694490999999999
+Beefeater The Plough (Dover),Folkestone Road,,Dover,Kent,CT15 7AB,51.111043,1.259959
+Beefeater The Plough (Solihull),Stratford Road Shirley,,Solihull,West Midlands,B90 4EP,52.386044,-1.7993546
+Beefeater The Rosebank,Main Street,Camelon,Falkirk,,FK1 4DS,56.0022191,-3.8052545
+Beefeater The Somerford,Somerford Road,,Christchurch,Dorset,BH23 3QG,50.7423064,-1.7428884
+Beefeater The Southcote,Southcote Lane,,Reading,,RG30 3AB,51.447627,-0.9959089999999999
+Beefeater The Stanborough,Stanborough Road,,Welwyn Garden City,Hertfordshire,AL8 6DQ,51.792692,-0.209901
+Beefeater The Station,57 North Street,,Horsham,West Sussex,RH12 1RB,51.06638659999999,-0.3195952
+Beefeater The Talpore,White Water Way Thornaby,Stockton-on-Tees,Stockton-on-Tees,,TS17 6QB,54.5670894,-1.2843042
+Beefeater The Walston Castle,Port Road,Nantisaf,Cardiff,Vale of Glamorgan,CF5 6DD,51.453162,-3.265522
+Beefeater The Warden,129 Barton Road,,Luton,,LU3 2BL,51.9181023,-0.4276514
+Beefeater The Waterfront,waterfront development,Langdon Road,Swansea,,SA1 8PL,51.6201052,-3.928601599999999
+Beefeater The Watermill (Basildon),Felmores,East Mayne,Basildon,Essex,SS13 1BW,51.5804238,0.4970093
+Beefeater The Woodlands,Wrotham Road,,Gravesend,Kent,DA11 7LF,51.4318683,0.363977
+Beefeater The Woolpack,Maidstone Road,Hothfield Common,Ram Lane,Ashford,TN26 1AP,51.184797,0.817537
+Beefeater Three Fish,Stafford Road,,Newport,Shropshire,TF10 9BY,52.7688047,-2.3606252
+Beefeater Three Pears,Wainwright Road,,Worcester,Worcestershire,WR4 9FA,52.212036,-2.16273
+Beefeater Travellers Rest (Cambridge),Huntingdon Road,Girton,Cambridge,Cambridgeshire,CB3 0DL,52.2222647,0.0936804
+Beefeater Travellers Rest (Kenton),Kenton Road,,Harrow,Greater London,HA3 8AT,51.5825457,-0.3168444
+Beefeater Travellers Rest (Ross on Wye),Ledbury Road,,Ross-on-Wye,Herefordshire,HR9 7QJ,51.9308758,-2.5615281
+Beefeater Turnpike - Northampton,Weedon Road,Harpole,Northampton,Northamptonshire,NN7 4DD,52.235632,-0.9856419999999999
+Beefeater Twelve Bells,Ermin Way,,Gloucester,Gloucestershire,GL3 4SS,51.839484,-2.139569
+Beefeater Ware,Marsh Lane,,Ware,Hertfordshire,SG12 9QB,51.806312,-0.0258081
+Beefeater Weymouth,gateway business park,Mercery Road,Weymouth,Dorset,DT3 5HJ,50.6344246,-2.460510600000001
+Beefeater White Hart - Guestling,Winchelsea Road,,Hastings,East Sussex,TN35 4LW,50.887684,0.6256929999999999
+Beefeater White Lodge,81 Bridgwater Road,,Taunton,Somerset,TA1 2DU,51.0228394,-3.0722094
+Beefeater White Rock,Long Road,South,Paignton,Torbay,TQ4 7AZ,50.4140552,-3.579712
+Beefeater Whitegate Inn,Broadway,Chadderton,Oldham,Greater Manchester,OL9 8DW,53.522487,-2.164274
+Beefeater Whitley Bay,9 Spanish City Plaza,,Whitley Bay,Tyne and Wear,NE26 1BG,55.0471451,-1.4460081
+Beefeater Yeadon Stoops,Victoria Avenue,Bayton Lane,Yeadon,Leeds,LS19 7AW,53.8635795,-1.671339
+Beefeater Yeovil Town Centre,Middle Street,,Yeovil,Somerset,BA20 1LT,50.9409524,-2.6254442
+Brewers Fayre Abergavenny,Westgate House,Llanfoist,Abergavenny,Monmouthshire,NP7 9LH,51.8140667,-3.0259811
+Brewers Fayre Afon Conwy,Glan Conwy Corner,,Colwyn Bay,Conwy Principal Area,LL28 5LB,53.2794821,-3.7899077
+Brewers Fayre Aire & Calder,Rawcliffe Road,Airmyn,Goole,East Riding of Yorkshire,DN14 8JS,53.7060976,-0.9135844
+Brewers Fayre Bankhead Gate,Beaufort Drive,,Glenrothes,Fife,KY7 4UJ,56.1816986,-3.1515258
+Brewers Fayre Barrow in Furness,North Road,,Barrow-in-Furness,Cumbria,LA14 2PW,54.112692,-3.238758
+Brewers Fayre Bedford South (A421),Marsh Leys Cottages,Kempston,Bedford,,MK42 7FY,52.1047115,-0.5070468
+Brewers Fayre Bellziehill Farm,10-12 Bellziehill Road,,Bellshill,North Lanarkshire,ML4 3PD,55.8192095,-4.0411475
+Brewers Fayre Bexleyheath,51 Albion Road,,Bexleyheath,Greater London,DA6 7HG,51.45561679999999,0.1436057
+Brewers Fayre Bicester,Oxford Road,,Bicester,Oxfordshire,OX26 1BT,51.8916941,-1.1640328
+Brewers Fayre Bideford,Clovelly Road,,Bideford,Devon,EX39 3QU,51.0090465,-4.238320499999999
+Brewers Fayre Bobbing Apple,Corner,Sheppey Way,Sittingbourne,Kent,ME9 8RZ,51.3512687,0.7069578
+Brewers Fayre Brampton Hut,A1,Brampton,Huntingdon,Cambridgeshire,PE28 4NQ,52.332256,-0.252501
+Brewers Fayre Bristol Lewins Mead,Lewins Mead,,Bristol,Bristol City,BS1 2PY,51.4579283,-2.5935671
+Brewers Fayre Broadland View,Old Chapel Way,,Norwich,Norfolk,NR7 0WG,52.6287119,1.3738689
+Brewers Fayre Brookers Oast,The Hop Farm,Beltring,Paddock Wood,Tonbridge,TN12 6PY,51.2007659,0.3953821
+Brewers Fayre Buchanan Gate,Cumbernauld Road,Stepps,Glasgow,North Lanarkshire,G33 6LE,55.8945982,-4.1323606
+Brewers Fayre Burleydam,New Chester Road,Childer Thornton,Ellesmere Port,Cheshire West and Chester,CH66 1QW,53.291601,-2.95355
+Brewers Fayre Burton House,Wainfleet Road,,Boston,Lincolnshire,PE21 9RW,52.98809139999999,-0.0035131
+Brewers Fayre Cadgers Brae,Beancross Road,Polmont,Grangemouth,Falkirk,FK2 0YS,55.9963151,-3.7230774
+Brewers Fayre Castle Lake,Castle Way,Leybourne,West Malling,Kent,ME19 5TR,51.3065002,0.4240719
+Brewers Fayre Central Park,2,Central Park Drive,Rugby,Warwickshire,CV23 0WE,52.4020855,-1.2456386
+Brewers Fayre Cepen Park,West Cepen Way,,Chippenham,Wiltshire,SN14 6UZ,51.4781923,-2.1320719
+Brewers Fayre Chafford Hundred,Fleming Road Unicorn Estate,Chafford Hundred,Grays,Thurrock,RM16 6YJ,51.4907265,0.2907466
+Brewers Fayre Chapel Brook,Wilson Road,Tarbock Green,Liverpool,Merseyside,L36 6AD,53.3994675,-2.8146329
+Brewers Fayre Chequers Corner,2 New Road,,Dagenham,Greater London,RM9 6YS,51.5313398,0.148072
+Brewers Fayre Cinder Path,Hobson Way,Newcastle Road,Jarrow,South Shields,NE34 9PQ,54.975086,-1.453918
+Brewers Fayre Clarence Pier,Long Curtain Road,Southsea,Portsmouth,Southsea,PO5 3XX,50.7868311,-1.1017335
+Brewers Fayre Clayton Green,Chadderton Way,,Oldham,Greater Manchester,OL1 2PA,53.5541549,-2.1327211
+Brewers Fayre Clock Tower,Donnington Wood Way,Donnington,Telford,Shropshire,TF2 8LE,52.7245888,-2.4356417
+Brewers Fayre Coach House,Wilderspool Wood,Trafford Park,Stretford,Manchester,M17 8WW,53.46468050000001,-2.3535042
+Brewers Fayre Cockermouth,Waterloo Street,,Cockermouth,Cumbria,CA13 0QX,54.6520389,-3.3713168
+Brewers Fayre Concorde,Gloucester Road North,Filton,Bristol,South Gloucestershire,BS34 7BR,51.5084174,-2.5749104
+Brewers Fayre Cottams Field,Caton Road,,Lancaster,Lancashire,LA1 3PE,54.0695618,-2.7784418
+Brewers Fayre Craig House,Carberry Road,Inveresk,Musselburgh,East Lothian Council,EH21 8PT,55.925647,-3.034939
+Brewers Fayre Craigside Inn,Colwyn Road,,Llandudno,Conwy Principal Area,LL30 3AL,53.3228446,-3.7860063
+Brewers Fayre Crooked Glen,Fife Leisure Park,Whimbrel Place,Dunfermline,Fife,KY11 8EX,56.0787551,-3.3991823
+Brewers Fayre Cross Point,Gielgud Way,,Coventry,West Midlands,CV2 2SZ,52.4347563,-1.4294558
+Brewers Fayre Crossways,Pontypandy Lane,,Caerphilly,Caerphilly County Borough,CF83 3NL,51.5880837,-3.2098973
+Brewers Fayre Derry Londonderry,Crescent Link,,Londonderry,Derry and Strabane,BT47 6SA,54.9924791,-7.278984200000001
+Brewers Fayre Derwent Crossing,Derwenthaugh Road,Swalwell,Newcastle upon Tyne,Tyne and Wear,NE16 3BL,54.961533,-1.68739
+Brewers Fayre Drove,The Drove,,Newhaven,East Sussex,BN9 0AG,50.7992873,0.06147399999999999
+Brewers Fayre Duke of York,Wood,Jubilee Way,Guston,Dover,CT15 5FD,51.1444676,1.330476
+Brewers Fayre Dunelm Ridge,Arnison Retail Centre,Pity Me,Durham,County Durham,DH1 5GB,54.8069733,-1.5858403
+Brewers Fayre Elmbury Lodge,Shannon Way,Ashchurch,Tewkesbury,Gloucestershire,GL20 8ND,51.9971786,-2.1276183
+Brewers Fayre Exeter (M5,Fitzroy Road,,Exeter,Devon,EX1 3LJ,50.724475,-3.47375
+Brewers Fayre Flagstaff Island,Flagstaff Park,,Ashby-de-la-Zouch,Leicestershire,LE65 1JP,52.75150619999999,-1.4458448
+Brewers Fayre Freebridge Farm,Clenchwarton Road,West Lynn,King's Lynn,Norfolk,PE34 3LW,52.74182099999999,0.3830278
+Brewers Fayre Gateway Park,Gateway Park,Newark Road,Lincoln,Lincolnshire,LN6 9UH,53.1776707,-0.6211213999999999
+Brewers Fayre Glastonbury,Morland Road,,Glastonbury,Somerset,BA6 9FW,51.140682,-2.733588
+Brewers Fayre Goffs Park,45 Goffs Park Road,Goffs Park,Crawley,West Sussex,RH11 8AX,51.1091572,-0.1985436
+Brewers Fayre Gordano Gate,Wyndham Way,Portishead,Bristol,North Somerset,BS20 7GA,51.481992,-2.7614436
+Brewers Fayre Great Park,Ashbrook Drive,Rubery,Rednal,Birmingham,B45 9FP,52.3980007,-2.0063278
+Brewers Fayre Hanley,Etruria Road,Hanley,Stoke-on-Trent,,ST1 5NH,53.024935,-2.185457
+Brewers Fayre Heathside,Brighton Road,Burgh Heath,Banstead,Tadworth,KT20 6BW,51.303966,-0.219384
+Brewers Fayre Home Farm,Ferriby Road,Kingston upon Hull,Hessle,East Riding of Yorkshire,HU13 0JA,53.7212134,-0.4619097
+Brewers Fayre Inn On The Quay,Tanners Road,Goodrington,Paignton,Torbay,TQ4 6LP,50.42491529999999,-3.5597057
+Brewers Fayre Inshes Gate,BEECHWOOD PARK,,Inverness,Highland Council,IV2 3BW,57.4734764,-4.186978499999999
+Brewers Fayre Kembrey Inn,Larch Close Kembrey Business Park,,Swindon,,SN2 8YS,51.578078,-1.773767
+Brewers Fayre Kincardine Way,Bowtrees R'Bout Houghs Of,Airth,Falkirk,,FK2 8PJ,56.05354200000001,-3.758729
+Brewers Fayre King William IV,Blyth Road,Oldcotes,Worksop,Nottinghamshire,S81 8HU,53.3920172,-1.1175743
+Brewers Fayre Lakeland Gate,Walkmill Crescent,,Carlisle,Cumbria,CA1 2WF,54.8942243,-2.907476
+Brewers Fayre Linkwood Lodge,15 Linkwood Way,,Elgin,Moray,IV30 1HY,57.6468188,-3.2873422
+Brewers Fayre Loch Iall,An Aird,,Fort William,Highland Council,PH33 6AN,56.82214039999999,-5.105834799999999
+Brewers Fayre Lock Keeper,Rother Way,,Chesterfield,Derbyshire,S41 7NJ,53.2510235,-1.4197899
+Brewers Fayre Loggans Moor,Carwin Rise,Loggans,Hayle,Cornwall,TR27 5DG,50.197539,-5.396310000000001
+Brewers Fayre Mains of Balquharn,Portlethen,Portlethen,Aberdeen,Aberdeenshire,AB12 4QS,57.0645792,-2.1412745
+Brewers Fayre Malt & Myre,Lomondgate Drive,,Dumbarton,West Dunbartonshire Council,G82 2QU,55.956839,-4.5594671
+Brewers Fayre Marina,Wharf Farm,Coventry Road,Hinckley,Leicestershire,LE10 0NB,52.5370228,-1.4002801
+Brewers Fayre Mersey Farm,Carrington Lane,Ashton upon Mersey,Sale,Greater Manchester,M33 5BL,53.430651,-2.35634
+Brewers Fayre Minehead,Seaward Way,,Minehead,Somerset,TA24 6DF,51.2003028,-3.4614322
+Brewers Fayre Monifieth Farm,Ethiebeaton Park,Monifieth,Dundee,Angus Council,DD5 4HB,56.4917392,-2.8320734
+Brewers Fayre Monkey Puzzle (Farnborough),101 Ively Road,Cove,Farnborough,Hampshire,GU14 0LE,51.2888791,-0.7790976
+Brewers Fayre Monkton Lodge,Kilmarnock Road,Monkton,Prestwick,South Ayrshire Council,KA9 2RJ,55.5229442,-4.5896694
+Brewers Fayre Mulberry Tree,Braintree Road,,Braintree,Essex,CM77 8GG,51.8687955,0.5821105
+Brewers Fayre Newhaven Quay,51-53 Newhaven Place,Newhaven,Edinburgh,,EH6 4TX,55.9825162,-3.1949516
+Brewers Fayre Ocean Park,East Moors Industrial Estate,Keen Road,Cardiff,,CF24 5JT,51.477536,-3.1595439
+Brewers Fayre Ocean Plaza,Marine Drive,,Southport,Merseyside,PR8 1RY,53.6509358,-3.0145562
+Brewers Fayre Old Brickworks,Wakefield Road,Drighlington,Bradford,West Yorkshire,BD11 1EA,53.750142,-1.643645
+Brewers Fayre Old Nelson,Stratford Road,,Stroud,Gloucestershire,GL5 4AF,51.74803,-2.2221483
+Brewers Fayre Old West Quay,Maritime Avenue,,Hartlepool,,TS24 0XZ,54.6895264,-1.2016359
+Brewers Fayre Orbital,Eastern Way,,Cannock,Staffordshire,WS11 8XR,52.6744936,-2.022672
+Brewers Fayre Papermill,London Road,Loudwater,High Wycombe,Buckinghamshire,HP10 9YL,51.6080493,-0.6946771
+Brewers Fayre Phoenix Park,Phoenix Business Park,Linwood,Paisley,Renfrewshire,PA1 2BH,55.8477802,-4.4786366
+Brewers Fayre Pirnhall Inn,Glasgow Road,Whins of Milton,Stirling,,FK7 8EX,56.0809971,-3.9247193
+Brewers Fayre Portway Inn,Joule Road,,Andover,Hampshire,SP10 3UX,51.2122227,-1.5171902
+Brewers Fayre Preston Farm,Yarm Road,,Stockton-on-Tees,,TS18 3RT,54.545967,-1.332139
+Brewers Fayre Promenade,Station Road,,Margate,Kent,CT9 5AF,51.3856964,1.3735421
+Brewers Fayre Queen Victoria,Queen Victoria Road,,Burnley,Lancashire,BB10 3EF,53.79626409999999,-2.2334074
+Brewers Fayre Queens Crossing,7A,Builyeon Road,South Queensferry,Edinburgh,EH30 9YJ,55.9839923,-3.4068297
+Brewers Fayre Redhill,1 Spitfire Close,,Stafford,Staffordshire,ST16 1GX,52.83181339999999,-2.1349701
+Brewers Fayre Rhubarb Triangle,Rhubarb Triangle,Herriot Way,Wakefield,West Yorkshire,WF1 2UF,53.6987679,-1.5079229
+Brewers Fayre Rising Sun,2 Ascot Road,,Watford,Hertfordshire,WD18 8AP,51.6516532,-0.424076
+Brewers Fayre Royal Forest,4 Ranger's Road,,London,Greater London,E4 7QH,51.6342975,0.0168438
+Brewers Fayre Royal Quays,Coble Dene,Road,North Shields,Tyne and Wear,NE29 6DL,54.9946565,-1.4610568
+Brewers Fayre Sidcot Arms,Bridgwater Road,,Winscombe,North Somerset,BS25 1NN,51.3061219,-2.8244464
+Brewers Fayre Southend on Sea,Eastern Esplanade,,Southend-on-Sea,,SS1 2YT,51.5310991,0.7295033
+Brewers Fayre Stable Gate,Alphagate Drive,Denton,Manchester,Greater Manchester,M34 3SH,53.4554789,-2.1347875
+Brewers Fayre Stourbridge Town Centre,Birmingham Street,,Stourbridge,West Midlands,DY8 1JR,52.4574827,-2.1404743
+Brewers Fayre Swallow,3 Augusta Close,Ransomes Industrial Estate,Ipswich,Suffolk,IP3 9SS,52.0268704,1.2062592
+Brewers Fayre Swansea Vale,Upper Fforest Way,Llansamlet,Swansea,,SA6 8WB,51.665243,-3.912108
+Brewers Fayre Telford Lodge,Rothwell Road,,Kettering,Northamptonshire,NN16 8FX,52.4075967,-0.7510291
+Brewers Fayre The Airfield,Galleria Site,Comet Way,Hatfield,Hertfordshire,AL10 0DA,51.7687349,-0.2329864
+Brewers Fayre The Brocklebank,Weston Road,,Crewe,Cheshire East,CW1 6FX,53.0874053,-2.4291788
+Brewers Fayre The Carousel,Falconers Road,,Scarborough,North Yorkshire,YO11 2EN,54.2807831,-0.4010184
+Brewers Fayre The Castlewood,Carter Lane East,South Normanton,Alfreton,Derbyshire,DE55 2DY,53.1046874,-1.3211271
+Brewers Fayre The Cheswold,Doncaster Leisure Park,Bawtry Road,Doncaster,South Yorkshire,DN4 7NW,53.5122565,-1.1047134
+Brewers Fayre The Dalesway,502 Bradford Road,Sandbeds,Bingley,Keighley,BD20 5NH,53.865572,-1.8553504
+Brewers Fayre The Farrier,Harlaxton Road,,Grantham,Lincolnshire,NG31 7JT,52.8967928,-0.6645962999999999
+Brewers Fayre The Guild,Birmingham Road,,Bromsgrove,Worcestershire,B61 0BA,52.339356,-2.048929
+Brewers Fayre The Hampton,Off Ashbourne Road,London Road,Hampton,Peterborough,PE7 8BT,52.5403551,-0.2572579
+Brewers Fayre The Harbour (Carrickfergus),Alexander Pier,Rodgers Quay,Carrickfergus,Mid and East Antrim,BT38 8BE,54.71164,-5.809139999999999
+Brewers Fayre The Haven,Appian Way,,Grimsby,North East Lincolnshire,DN31 2UT,53.579089,-0.108457
+Brewers Fayre The Haywain (Epsom),Off Saint Margaret Drive,Dorking Road,Epsom,Surrey,KT18 7LB,51.328573,-0.2714
+Brewers Fayre The Howgate,Howgate,Howgate,Whitehaven,Cumbria,CA28 6PL,54.576153,-3.5634986
+Brewers Fayre The Hunsworth,Whitehall Road,,Cleckheaton,West Yorkshire,BD19 6HG,53.7366453,-1.72169
+Brewers Fayre The Lodmoor,Beach Road,,Weymouth,Dorset,DT4 7SX,50.624254,-2.4458062
+Brewers Fayre The Mayflower,Parkeston Road,Dovercourt,Harwich,Essex,CO12 4NX,51.9391947,1.2581826
+Brewers Fayre The Meadows,Meadow Gate,Wombwell,Barnsley,South Yorkshire,S73 0UN,53.5161349,-1.3776788
+Brewers Fayre The Oaks,Holt Road,Airport,Norwich,Norfolk,NR6 6JA,52.6673324,1.2729581
+Brewers Fayre The O'Bridge,Massingham Park,,Taunton,Somerset,TA2 7RX,51.0273317,-3.090924
+Brewers Fayre The Point,1-3 James Watt Way,,Greenock,Inverclyde,PA15 2AD,55.9449145,-4.7342974
+Brewers Fayre The Redwood,Talke Road,Red Street,Newcastle,Staffordshire,ST5 7EH,53.051016,-2.246327
+Brewers Fayre The Regis,The Esplanade,,Bognor Regis,West Sussex,PO21 1BL,50.7824026,-0.6716725
+Brewers Fayre The Sandpiper,Sandpiper Road,,Llanelli,Carmarthenshire,SA15 4SG,51.68249650000001,-4.1744922
+Brewers Fayre The Sparrow,Combe Fields Road,Ansty,Coventry,Warwickshire,CV7 9JP,52.4336967,-1.3986593
+Brewers Fayre The Turnpike (Yorkshire),A1 Business Park,Pontefract Road,Knottingley,West Yorkshire,WF11 0BU,53.7026723,-1.2736548
+Brewers Fayre The Watermill (Halifax),Salterhebble Hill,Huddersfield Road,Halifax,West Yorkshire,HX3 0QT,53.702161,-1.854158
+Brewers Fayre The Wentworth,Maple Road,Tankersley,Barnsley,South Yorkshire,S75 3DL,53.487685,-1.495685
+Brewers Fayre The Wessington,Wessington Way,Castletown,Sunderland,Tyne and Wear,SR5 3HR,54.91110699999999,-1.456133
+Brewers Fayre The Windmill,1 John Macadam Way,Hastings,Saint Leonards-on-sea,East Sussex,TN37 7DB,50.8866666,0.5503429
+Brewers Fayre Three Bells,Silver Street,Hordle,Lymington,Hampshire,SO41 0FN,50.761486,-1.621086
+Brewers Fayre Tindale Crossing,West Auckland Road,,Bishop Auckland,County Durham,DL14 9AP,54.6385212,-1.6873448
+Brewers Fayre Tirfounder Fields,Riverside Retail Park,Tirfounder Fields,Aberdare,Rhondda Cynon Taff,CF44 0AH,51.701643,-3.418867
+Brewers Fayre Tudor Rose,Parkgate Road,Ledsham,Ellesmere Port,Cheshire West and Chester,CH66 9PD,53.2607176,-2.9783517
+Brewers Fayre Twirl of Hay,Caldy Valley Road,Great Boughton,Chester,Cheshire West and Chester,CH3 5PR,53.185388,-2.856217
+Brewers Fayre Victoria Park,Victoria Business Park,Waun-Lwyd,Ebbw Vale,Blaenau Gwent,NP23 8AN,51.7585882,-3.1999056
+Brewers Fayre Walsall Town Centre,Wolverhampton Street,,Walsall,West Midlands,WS2 8LR,52.585883,-1.987236
+Brewers Fayre Weather Vane,Wokingham Road,,Bracknell,Bracknell Forest,RG42 1NA,51.417539,-0.756613
+Brewers Fayre Wessex Flyer,Hengrove Leisure Park,Hengrove Way,Bristol,Bristol City,BS14 0HR,51.4175589,-2.5873782
+Brewers Fayre Weston Super-Mare (Seafront),Dolphin Square,Beach Road,Weston-super-Mare,North Somerset,BS23 1TT,51.3452438,-2.980228
+Brewers Fayre Wheatlea Park,Warrington Road,,Wigan,Greater Manchester,WN3 6XB,53.51605869999999,-2.6536572
+Brewers Fayre Whittle Inn,Gloucester Business Park,Brockworth,Gloucester,Gloucestershire,GL3 4BJ,51.8484469,-2.1722871
+Brewers Fayre Widnes,Venture Fields The Hive Leisure Park,,Widnes,Borough of Halton,WA8 0GY,53.360651,-2.725117
+Brewers Fayre Willems Park,Off Wellington Avenue,Farnborough Road,Aldershot,Hampshire,GU11 1SQ,51.250756,-0.777038
+Brewers Fayre Winsor House,1 Woolwich Manor Way,,London,Greater London,E6 5NT,51.514836,0.0610111
+Brewers Fayre Winwick Quay,Ind. Estate,Winwick Road,Warrington,,WA2 8RN,53.4203674,-2.5987923
+Brewers Fayre Yeadon Way,Yeadon Way,Southshore,Blackpool,,FY1 6BF,53.795487,-3.046978
+Cookhouse + Pub Anchor Inn,Hellifield Road,Gargrave,Skipton,North Yorkshire,BD23 3NA,53.9840423,-2.1164668
+Cookhouse + Pub Butterley Park,Nottingham Road,,Ripley,Derbyshire,DE5 3QP,53.0553962,-1.3983247
+Cookhouse + Pub Cotton Mill,Moorfield Roundabout,Annadale,Kilmarnock,East Ayrshire Council,KA1 2RS,55.602987,-4.531603
+Cookhouse + Pub Holystone Park,Edmund Road,Holystone,Newcastle upon Tyne,Tyne and Wear,NE27 0UN,55.0274838,-1.5235092
+Cookhouse + Pub Honourable Pilot,Will Adams Way,,Gillingham,Medway,ME8 6BY,51.370402,0.569712
+Cookhouse + Pub Inn On The Park,Corner Of Solar Way,,Enfield,Greater London,EN3 7XY,51.6753759,-0.0206736
+Cookhouse + Pub King Sedgemoor Inn,Express Park,Bristol Road,Bridgwater,Somerset,TA6 4RR,51.1456712,-2.9916093
+Cookhouse + Pub Lockyers Quay,1 Lockyers Quay,,Plymouth,,PL4 0DX,50.36774399999999,-4.129286
+Cookhouse + Pub Penhale Round,Penhale,Penhale,Saint Columb,Cornwall,TR9 6NA,50.3779631,-4.943353399999999
+Cookhouse + Pub Potters Arms,Church Langley Way,,Harlow,Essex,CM17 9TD,51.767103,0.1307214
+Cookhouse + Pub The Brickfield,Cherry Garden Lane,,Folkestone,Kent,CT19 4AP,51.0939637,1.1564401
+Cookhouse + Pub The Freeman,Seafront,Albion Terrace,Bridlington,East Riding of Yorkshire,YO15 2PJ,54.0860759,-0.184714
+Cookhouse + Pub The Highwayman,Colmworth Business Park,Eaton Socon,St Neots,Saint Neots,PE19 8YP,52.2085133,-0.2892127
+Cookhouse + Pub The Lakeside,Wolverhampton Road,,Oldbury,West Midlands,B69 2BH,52.5010984,-2.0313918
+Cookhouse + Pub The Queen Inn,Congregation Way,,West Bromwich,West Midlands,B70 7PU,52.5225975,-1.9932338
+Cookhouse + Pub The Steamboat,Seafront,,Skegness,Lincolnshire,PE25 3HH,53.1461415,0.3452413
+Cookhouse + Pub The Submariner,21-26,West Parade,Rhyl,Denbighshire,LL18 1HE,53.3209556,-3.4945809
+Cookhouse + Pub The Woodpecker,London Road,Cheshire,Northwich,Cheshire West and Chester,CW9 8EG,53.2410338,-2.5123691
+Cookhouse + Pub Woodhorn Grange,Queen Elizabeth Country Park,,Ashington,Northumberland,NE63 9AT,55.1972046,-1.5541871
+Table Table Airfield Tavern,Alvington Lane,,Yeovil,Somerset,BA22 8UX,50.94190949999999,-2.6706348
+Table Table Ashbridge Inn,Avondale Road,Pontrhydyrun,Cwmbran,Cwmbran,NP44 1DE,51.670728,-3.017579
+Table Table Bailey Bridge,Barrack Road,,Christchurch,Dorset,BH23 2BN,50.737723,-1.78919
+Table Table Balkerne Gate,Ipswich Road,Ardleigh,Colchester,Essex,CO4 9WP,51.9197098,0.9324953999999999
+Table Table Barley Twist,High Fisher Gate,,Doncaster,South Yorkshire,DN1 1QZ,53.525491,-1.1336762
+Table Table Barum Gate,Whiddon Valley,,Barnstaple,Devon,EX32 8RY,51.0735275,-4.033886499999999
+Table Table Bowling Green,Colchester Road,Tendring,Clacton-on-Sea,Essex,CO16 9AA,51.858787,1.102024
+Table Table Cheadle Royal,Royal Crescent,,Cheadle,Greater Manchester,SK8 3FE,53.37842819999999,-2.2193127
+Table Table Derby Lodge,Roby Road,Huyton,Liverpool,Merseyside,L36 4HD,53.4084508,-2.8581958
+Table Table Esk Valley,Melville Dykes Road,,Dalkeith,Midlothian,EH18 1AN,55.887964,-3.094427
+Table Table Forest Park,Hinckley Road,,Leicester,Leicestershire,LE3 3GD,52.625031,-1.208506
+Table Table George & Dragon - Altrincham,Manchester Road,,Altrincham,Greater Manchester,WA14 4PH,53.3929457,-2.3522323
+Table Table Glass House,Gateway Plaza,Shambles Street,Barnsley,South Yorkshire,S70 2SB,53.5532665,-1.4872019
+Table Table Hampton Inn,Off Pearce Way,London Road,Salisbury,Wiltshire,SP1 3GU,51.089302,-1.77127
+Table Table Herne Bay,Margate Road,,Herne Bay,Kent,CT6 6LA,51.361984,1.1457935
+Table Table Holes Bay,Holes Bay Road,,Poole,Dorset,BH15 2BD,50.725266,-1.991289
+Table Table Horse & Jockey,125 Watling Street,Kensworth,Dunstable,Central Bedfordshire,LU6 3QP,51.8575068,-0.4804819
+Table Table John Milne,Newhey Road,Milnrow,Rochdale,Greater Manchester,OL16 4JF,53.6028771,-2.1041923
+Table Table Langton Inn,Melton Road,West Langton,Market Harborough,Market Harborough,LE16 7FD,52.5117255,-0.9417611
+Table Table Linen House,136-144 Hillsborough Road,Lisburn,Belfast,Lisburn and Castlereagh,BT27 5QY,54.49642069999999,-6.0553444
+Table Table Lynton Court,47 Christchurch Road,Boscombe,Bournemouth,Dorset,BH1 3PA,50.7228044,-1.8531086
+Table Table Marine Court,Marine Parade,,Dover,Kent,CT16 1LW,51.1250685,1.3212006
+Table Table Mill of Mundurno,Murcar,Bridge of Don,Aberdeen,Aberdeen City,AB23 8BP,57.2035162,-2.0895687
+Table Table Morfa Rhuddlan,Castle View Retail park,Marsh Road,Rhuddlan,Rhyl,LL18 5UA,53.2880063,-3.471551
+Table Table Oasthouse,Foresters Park Centre,Sinfin Lane,Derby,,DE23 8AG,52.89723439999999,-1.4782108
+Table Table Orion Way,Off London Road,Cambuslang,Glasgow,Glasgow City,G32 8EY,55.835984,-4.169582
+Table Table Oswalds Cross,Rods Meadow,,Oswestry,Shropshire,SY10 8NN,52.8503152,-3.0320593
+Table Table Pantruthyn Farm,Pencoed,Pencoed,Bridgend,Rhondda Cynon Taff,CF35 5HY,51.5134132,-3.4947842
+Table Table Parc Britannia,Parc Menai,Parc Menai,Road,Bangor,LL57 4FA,53.2035774,-4.178292
+Table Table Paul Pry,1023 Lincoln Road,Walton,Peterborough,,PE4 6AH,52.6024058,-0.2668302
+Table Table Pentrebach House,Pentrebach House,Pentrebach,Merthyr Tydfil,Merthyr Tydfil County Borough,CF48 4BD,51.7255694,-3.3601481
+Table Table Red Lion - Portsmouth,2 Havant Road,,Portsmouth,Hampshire,PO8 0DT,50.9133152,-0.9964829
+Table Table Red Lion - Warwickshire,1 Warwick Road,Bridge Foot,Stratford-upon-Avon,Warwickshire,CV37 6YW,52.193448,-1.703512
+Table Table Smugglers Retreat,Tothill Street,Minster,Ramsgate,Kent,CT12 4AG,51.3423723,1.3168436
+Table Table Solway Gate,Annan Road,,Dumfries,Dumfries and Galloway,DG1 3JX,55.0700294,-3.5583294
+Table Table Stanhope Arms,Ashby Road East,,Burton-on-Trent,Derbyshire,DE15 0PU,52.794959,-1.5790428
+Table Table Swinging Bridge,Trafford Boulevard,Trafford Park,Urmston,Manchester,M41 7JE,53.4699459,-2.350747
+Table Table The Aspley,Saint Andrew's Road,Aspley,Huddersfield,West Yorkshire,HD1 6SB,53.6449006,-1.7741924
+Table Table The Bishopsgate,7-11 Bishopsgate,Lower Mosley Street,Manchester,Greater Manchester,M2 3DW,53.4768086,-2.2446276
+Table Table The Bluebrick,191 Broad Gauge Way,,Wolverhampton,West Midlands,WV10 0BA,52.5886132,-2.119565
+Table Table The Callywith,Launceston Road,,Bodmin,Cornwall,PL31 2AR,50.474568,-4.704947
+Table Table The Centurion,Watling Street,Wilnecote,Tamworth,Staffordshire,B77 5PN,52.604286,-1.648491
+Table Table The Charter,2 Rimmington Way,,Aylesbury,Buckinghamshire,HP19 8AW,51.82319159999999,-0.8298719999999999
+Table Table The Colliers,tower business park,Power Station Road,Rugeley,Staffordshire,WS15 1LX,52.757575,-1.926017
+Table Table The Dilke,Aldridge Road,,Walsall,West Midlands,WS4 2JL,52.58998589999999,-1.9522941
+Table Table The Gateway,Leigh Road,Eastleigh,Southampton,Hampshire,SO50 9YX,50.9729689,-1.3738615
+Table Table The Harbour (Caernarfon),Doc Fictoria,Balaclava Road,Caernarfon,Gwynedd,LL55 1TH,53.1439124,-4.2750352
+Table Table The Lee Burn,5 Lee Burns Court,Nerston,East Kilbride,Glasgow,G74 3XB,55.77869,-4.1630309
+Table Table The Longboat,28-40 Blossom Street,,York,,YO24 1AJ,53.9548521,-1.0925905
+Table Table The Nelson,Prince of Wales Road,,Norwich,Norfolk,NR1 1DX,52.6278673,1.3053095
+Table Table The Ormonde,Fred Archer Way,,Newmarket,Suffolk,CB8 8NY,52.24641,0.4084827
+Table Table The Park,Hornbeam Park Avenue,,Harrogate,North Yorkshire,HG2 8RA,53.980326,-1.525456
+Table Table The Ridgacre,New Gas Street,,West Bromwich,West Midlands,B70 0NP,52.5297662,-2.0158732
+Table Table The Riverside,3 Riverside Park North,Castleroe Road,Coleraine,Causeway Coast and Glens,BT51 3AW,55.1194801,-6.6750507
+Table Table The Showground,Longwater Interchange,Dereham Road,New Costessey,Norwich,NR5 0TP,52.6505412,1.1834415
+Table Table The Stonecross,Yew Tree Way,Lane,Golborne,Warrington,WA3 3JD,53.468413,-2.588284
+Table Table The Water Bridge,Derby Road,,Uttoxeter,Staffordshire,ST14 5AA,52.9071657,-1.8540921
+Table Table Treffry Tavern,Quintrell Downs,Quintrell Downs,Newquay,Cornwall,TR8 4LE,50.402599,-5.0284425
+Table Table Wakefield Arms,Maude Street,,Kendal,Cumbria,LA9 4QD,54.3307732,-2.7477669
+Table Table Willow Farm,New Road,Wennington,Rainham,Greater London,RM13 9ED,51.5066523,0.2261102
+Whitbread Inns George and Dragon - Marlow,The Causeway,,Marlow,Buckinghamshire,SL7 2AA,51.5690276,-0.7738172999999999
+Whitbread Inns The Beeches,Chester Road,Gresford,Wrexham,Wrexham Principal Area,LL12 8PW,53.0794404,-2.9823242
+Whitbread Inns The Bridgewater Arms,Wem Road,Harmer Hill,Shrewsbury,Shropshire,SY4 3DS,52.79317469999999,-2.7574603
+Whitbread Inns The Carclaze,St Austell Enterprise park,Treverbyn Road,Carclaze,Saint Austell,PL25 4EJ,50.3578714,-4.7815466
+Whitbread Inns The Globe Inn,266 Lymington Road,Highcliffe,Christchurch,Dorset,BH23 5ET,50.74102329999999,-1.7027027
+Whitbread Inns The Heath,Beaulieu Road,Dibden Purlieu,Southampton,Hampshire,SO45 4PW,50.851287,-1.417047
+Whitbread Inns The Hobbs Boat,Bridgwater Road,,Weston-super-Mare,Somerset,BS24 0BP,51.2985203,-2.9469816
+Whitbread Inns The Liskeard Tavern,The Liskeard Tavern,Haviland Road,Liskeard,Cornwall,PL14 3FG,50.44819829999999,-4.449587
+Whitbread Inns The May Tree,The May Tree,Clodgey Lane,Helston,Cornwall,TR13 0QD,50.1005051,-5.2593497
+Whitbread Inns The Roundstone,Roundstone Lane,East Preston,Littlehampton,West Sussex,BN16 1EB,50.817684,-0.475786
+Whitbread Inns The Treacle Mine,Treacle Mine,,Eastbourne,Polegate,BN26 6QL,50.8296322,0.237053
+Whitbread Inns The Warrener,Brandon Road,,Thetford,Norfolk,IP24 3PG,52.414645,0.727116
+Breakfast Room,North Anderson Drive,,Aberdeen,Aberdeen City,AB15 6DW,57.1505411,-2.1497808
+Breakfast Room,Birmingham Road,Great Barr,Birmingham,West Midlands,B43 7AG,52.558242,-1.937971
+Breakfast Room,1456 Stratford Road,Hall Green,Birmingham,West Midlands,B28 9ES,52.4234066,-1.8373671
+Breakfast Room,1 Arena Approach,Horwich,Bolton,Greater Manchester,BL6 6LB,53.579343,-2.537392
+Breakfast Room,Cressing Road,Cressing,Braintree,Essex,CM77 8DH,51.86659299999999,0.5833189999999999
+Breakfast Room,The Derwen A4061,,Bridgend,Bridgend County Borough,CF32 9ST,51.5316233,-3.5724855
+Breakfast Room,Corbetts Lane,,Caerphilly,Pwllypant,CF83 3HX,51.5928599,-3.2258015
+Breakfast Room,374 Gloucester Road,,Cheltenham,Gloucestershire,GL51 7AY,51.89423739999999,-2.105691
+Breakfast Room,Whittle-le-Woods,Whittle-le-Woods,Chorley,Lancashire,PR6 8AB,53.6777719,-2.6222665
+Breakfast Room,Rugby Road,,Coventry,West Midlands,CV3 2TA,52.396975,-1.4316727
+Breakfast Room,Kenpas Highway,,Coventry,West Midlands,CV3 6PB,52.3791932,-1.5172613
+Breakfast Room,Central Park Avenue,,Larbert,Falkirk,FK5 4RX,56.033001,-3.8387163
+Breakfast Room,Southampton Road,Park Gate,Southampton,Hampshire,SO31 6AF,50.867166,-1.2560975
+Breakfast Room,Centre Seven,,Gloucester,Gloucestershire,GL4 3HR,51.8691898,-2.1975264
+Breakfast Room,Fareham Road,,Gosport,Hampshire,PO13 0ZX,50.815863,-1.159554
+Breakfast Room,Fishguard Road,Withybush Roundabout,Haverfordwest,Pembrokeshire,SA62 4BP,51.8173202,-4.962810999999999
+Breakfast Room,Wakefield Road,,Brighouse,West Yorkshire,HD6 4HA,53.6923027,-1.7429805
+Breakfast Room,Hadleigh Road,,Ipswich,Suffolk,IP8 3AR,52.0508581,1.0971747
+Breakfast Room,37 Hempstead Road,,Kings Langley,Hertfordshire,WD4 8BR,51.7162819,-0.4513278
+Breakfast Room,Wellington Street,,Leeds,West Yorkshire,LS3 1LW,53.79777720000001,-1.5618342
+Breakfast Room,Selby Road,Whitkirk,Leeds,West Yorkshire,LS15 7AY,53.7981996,-1.4502311
+Breakfast Room,Leicester LE3 9QH,,Leicester,,LE3 9QH,52.6506169,-1.1669803
+Breakfast Room,Boghall Farm Steadings,,Bathgate,West Lothian,EH48 1LQ,55.89532819999999,-3.6064525
+Breakfast Room,619 Purley Way,,Croydon,Greater London,CR0 4RQ,51.356974,-0.113301
+Breakfast Room,Whalebone Lane North,Chadwell Heath,Dagenham,Romford,RM6 6QU,51.5806038,0.1404062
+Breakfast Room,High Road,,Buckhurst Hill,Essex,IG9 5HT,51.62529869999999,0.0323515
+Breakfast Room,London Road,Flamstead,St Albans,Hertfordshire,AL3 8HT,51.8210217,-0.4211169
+Breakfast Room,Marton Road,,Middlesbrough,,TS4 3BS,54.551424,-1.2201798
+Breakfast Room,Washington NE37 1LB,,Washington,Tyne and Wear,NE37 1LB,54.88722629999999,-1.5578739
+Breakfast Room,101 Mansfield Road,Daybrook,Nottingham,Nottinghamshire,NG5 6BH,53.000239,-1.138761
+Breakfast Room,Ty Felin Fawr,A472,Pontypool,Torfaen Principal Area,NP4 0RH,51.69452399999999,-3.0223432
+Breakfast Room,Bamber Bridge,Bamber Bridge,Preston,Lancashire,PR5 6BZ,53.7190229,-2.6733686
+Breakfast Room,Richfield Avenue,,Reading,,RG1 8EQ,51.46507,-0.9808699999999999
+Breakfast Room,Brownsover Road,,Rugby,Warwickshire,CV21 1HL,52.3904593,-1.2555981
+Breakfast Room,Brackley Hatch,Brackley Hatch,Brackley,Northamptonshire,NN13 5TX,52.071154,-1.057257
+Breakfast Room,Romsey Road,Ower,Romsey,Hampshire,SO51 6ZJ,50.95200510000001,-1.5371929
+Breakfast Room,1 Hurricane Close,,Stafford,Staffordshire,ST16 1GZ,52.8328309,-2.1331823
+Breakfast Room,Ruishton,Ruishton,Taunton,Somerset,TA3 5LU,51.0179983,-3.0604742
+Breakfast Room,Denby Dale Road,,Wakefield,Durkar,WF4 3BB,53.652767,-1.522191
+Breakfast Room,Floyd Drive,,Warrington,,WA2 8DB,53.4062323,-2.5936146
+Breakfast Room,Coal Lane,Wolviston,Stockton-on-Tees,Billingham,TS22 5PZ,54.6292109,-1.3060614
+Breakfast Room,York YO30 5PA,,York,,YO30 5PA,53.9758995,-1.1100178
+hub,Saint Swithin's Lane,,London,Greater London,EC4N 8AL,51.511893,-0.08921899999999999
+Kitchen,The Strand,,Bude,Cornwall,EX23 8RA,50.82781620000001,-4.5437169
+Kitchen,Epsom KT18 5BY,,Epsom,Surrey,KT18 5BY,51.3331268,-0.26538
+Kitchen,Piries Place,,Horsham,West Sussex,RH12 1EH,51.06249589999999,-0.3260847
+Lounge Bar,Rose Street South Lane,,Edinburgh,,EH2 2NN,55.9525672,-3.1977611
+Lounge Bar,21 Tothill Street,,London,Greater London,SW1H 9LL,51.49958849999999,-0.1315428
+Lounge Bar,Brook House,Torrington Place,London,Greater London,WC1E 7HN,51.5215944,-0.1344095
+Lounge Bar,50 Wharfdale Road,,London,Greater London,N1 9FA,51.5337037,-0.1219503
+Lounge Bar,15 Dacre Street,,London,Greater London,SW1H 0DJ,51.4989997,-0.1326171
+Lounge Cafe Bar,11-15 Lillie Road,,London,Greater London,SW6 1TX,51.4868558,-0.1968732
+ProvenDough,Edinburgh EH8 8FR,,Edinburgh,,EH8 8FR,55.95130109999999,-3.1836828
+ProvenDough,110 Saint Martin's Lane,,London,Greater London,WC2N 4BA,51.5100642,-0.1270499
+ProvenDough,86 Brick Lane,,London,Greater London,E1 6RL,51.5192715,-0.07143959999999999
+ProvenDough,City of London,City of London,London,Greater London,EC3R 5AT,51.5093255,-0.0810309
+The Kitchen,Broad Street,,Birmingham,West Midlands,B15 1AU,52.4752343,-1.9146818
+The Kitchen,Dudley DY1 4TA,,Dudley,West Midlands,DY1 4TA,52.5161244,-2.0706409
+The Kitchen,Sandown PO36 9PE,,Sandown,Isle of Wight,PO36 9PE,50.647819,-1.1785147
+The Kitchen,1 Leicester Square,,London,Greater London,WC2H 7BP,51.5110378,-0.1302996
+The Kitchen,135 Borough High Street,,London,Greater London,SE1 1NP,51.5033961,-0.0911515
+The Kitchen,Bury New Road,Prestwich,Manchester,Greater Manchester,M25 3AJ,53.53414960000001,-2.2862271
+The Kitchen,Norman Way,,Melton Mowbray,Leicestershire,LE13 1JE,52.7667112,-0.8862446
+The Kitchen,2 Common Garden Square Penrith New Squares,,Penrith,Cumbria,CA11 7FG,54.66152109999999,-2.7506736
+The Kitchen,Payton Street,,Stratford-upon-Avon,Warwickshire,CV37 6UQ,52.19395,-1.703785
+The Kitchen,Union Street,,Swansea,,SA1 3EE,51.619151,-3.946017899999999
+The Kitchen,Saint Albans Road,,Watford,Hertfordshire,WD25 0LH,51.6908646,-0.3860923
+Thyme,Argyll Way,Dyce,Aberdeen,Aberdeen City,AB21 0BN,57.1967149,-2.2068734
+Thyme,Inverlair House,West North Street,Aberdeen,Aberdeen City,AB24 5AS,57.150445,-2.0947865
+Thyme,36-37 Marine Terrace,,Aberystwyth,Ceredigion,SY23 2BX,52.41767369999999,-4.0840226
+Thyme,Wheatpark Place,,Ayr,South Ayrshire Council,KA8 9RT,55.4780631,-4.5881963
+Thyme,Ermont Way,,Banbury,Oxfordshire,OX16 4AE,52.0716835,-1.316775
+Thyme,Victoria Street,,Basingstoke,Hampshire,RG21 3BT,51.2605869,-1.0886996
+Thyme,Russell Avenue,,Bedford,,MK40 3TD,52.1354787,-0.4497743
+Thyme,Alfred Street,,Belfast,,BT2 8ED,54.5937542,-5.9273675
+Thyme,Sandgate,,Berwick-upon-Tweed,Northumberland,TD15 1EP,55.76768569999999,-2.0036904
+Thyme,Beverley HU17 0NQ,,Beverley,East Riding of Yorkshire,HU17 0NQ,53.8394645,-0.4201703
+Thyme,Birkenhead CH41 5AP,,Birkenhead,Merseyside,CH41 5AP,53.39091149999999,-3.0163867
+Thyme,Richard Street,Aston,Birmingham,West Midlands,B7 4AA,52.491254,-1.8862005
+Thyme,Birmingham B2 4NH,,Birmingham,West Midlands,B2 4NH,52.4766598,-1.9035353
+Thyme,Bridge Street,,Birmingham,West Midlands,B1 2JR,52.4759391,-1.9071463
+Thyme,Birmingham B40 1QA,,Birmingham,West Midlands,B40 1QA,52.4614151,-1.7181765
+Thyme,Blackburn BB1 1FB,,Blackburn,Blackburn with Darwen,BB1 1FB,53.746731,-2.4807069
+Thyme,Westover Road,,Bournemouth,Dorset,BH1 2BZ,50.7182292,-1.8735089
+Thyme,Boscombe,Boscombe,Bournemouth,Dorset,BH1 3ND,50.72255639999999,-1.8618815
+Thyme,Poole Road,Westbourne,Bournemouth,Dorset,BH2 5QU,50.72099859999999,-1.8923369
+Thyme,Bradford BD1 5LD,,Bradford,West Yorkshire,BD1 5LD,53.79169090000001,-1.7477987
+Thyme,144 North Street,,Brighton,Brighton and Hove,BN1 1RE,50.8233312,-0.141404
+Thyme,131 London Road,,Buxton,Derbyshire,SK17 9NW,53.2502281,-1.9104573
+Thyme,10 Park Street,,Camberley,Surrey,GU15 3PL,51.33893450000001,-0.7484988
+Thyme,Ring Fort Road,,Cambridge,Cambridgeshire,CB4 2GW,52.2347872,0.1162451
+Thyme,Newmarket Road,,Cambridge,Cambridgeshire,CB1 3EP,52.20894,0.143206
+Thyme,Saint George's Place,,Canterbury,Kent,CT1 1UP,51.2767496,1.0842179
+Thyme,Cardiff CF10 2NB,,Cardiff,,CF10 2NB,51.4811193,-3.1709788
+Thyme,Cardiff CF23 7XH,,Cardiff,,CF23 7XH,51.5227285,-3.1393014
+Thyme,Parkhouse Road,Parkhouse Road,Carlisle,Cumbria,CA3 0JR,54.9284425,-2.9472388
+Thyme,Castleford WF10 5TG,,Castleford,West Yorkshire,WF10 5TG,53.7116207,-1.3870222
+Thyme,Castleford WF10 4TA,,Castleford,West Yorkshire,WF10 4TA,53.70978119999999,-1.3400953
+Thyme,Blake Avenue,,Gillingham,Medway,ME7 1GB,51.3953269,0.5538169
+Thyme,Springfield,Springfield,Chelmsford,Essex,CM2 5PY,51.7559354,0.5194805
+Thyme,Victoria Road,,Chelmsford,Essex,CM1 1NY,51.7367818,0.4705868999999999
+Thyme,Cheltenham GL50 4FA,,Cheltenham,Gloucestershire,GL50 4FA,51.9035437,-2.0763331
+Thyme,20-24 City Road,,Chester,Cheshire West and Chester,CH1 3AE,53.1930066,-2.8816319
+Thyme,Terminus Road,,Chichester,West Sussex,PO19 8EL,50.828658,-0.785871
+Thyme,Marine Parade West,,Clacton-on-Sea,Essex,CO15 1RD,51.7872632,1.1524611
+Thyme,Saint Peter's Street,,Colchester,Essex,CO1 1HY,51.8930235,0.9002296999999999
+Thyme,Belgrade Plaza,Bond Street,Coventry,West Midlands,CV1 4AH,52.4105009,-1.5150825
+Thyme,53-55 Butts Road,,Coventry,West Midlands,CV1 3BH,52.4056949,-1.5236154
+Thyme,Darlington DL1 5AD,,Darlington,,DL1 5AD,54.522647,-1.5527645
+Thyme,Full Street,,Derby,,DE1 3AF,52.924502,-1.4752508
+Thyme,Derby DE1 2BB,,Derby,,DE1 2BB,52.9223702,-1.4713666
+Thyme,Wyvern Court Stanier Way,Wyvern Business Park,Derby,,DE21 6BF,52.91590799999999,-1.43135
+Thyme,Dorchester DT1 1GA,,Dorchester,Dorset,DT1 1GA,50.7091679,-2.438758
+Thyme,Durham DH1 1SQ,,Durham,County Durham,DH1 1SQ,54.778546,-1.5760296
+Thyme,Derby DE74 2TQ,,Derby,Leicestershire,DE74 2TQ,52.8226538,-1.3156227
+Thyme,Terminus Road,,Eastbourne,East Sussex,BN21 3DF,50.76712449999999,0.2894445
+Thyme,Newbridge EH28 8TH,,Newbridge,Edinburgh,EH28 8TH,55.9432243,-3.4045924
+Thyme,Lauriston Place,,Edinburgh,,EH3 9DG,55.9449553,-3.2000051
+Thyme,Princes Street,,Edinburgh,,EH2 4AD,55.9509397,-3.2043723
+Thyme,37 East Market Street,,Edinburgh,,EH8 8FR,55.9513985,-3.183382
+Thyme,44 York Place,,Edinburgh,,EH1 3HU,55.9567278,-3.1893262
+Thyme,Bonhay Road,,Exeter,Devon,EX4 4BG,50.7292721,-3.5420672
+Thyme,Exeter EX1 1SG,,Exeter,Devon,EX1 1SG,50.721256,-3.5272122
+Thyme,Exmouth EX8 2AZ,,Exmouth,Devon,EX8 2AZ,50.6155526,-3.4132163
+Thyme,Undercliff Road West,,Felixstowe,Suffolk,IP11 2AN,51.9584017,1.3425976
+Thyme,Fleet GU51 3QT,,Fleet,Hampshire,GU51 3QT,51.2892133,-0.8305437
+Thyme,Crawley RH10 8BA,,Crawley,West Sussex,RH10 8BA,51.1103457,-0.2060241
+Thyme,Row Avenue,,Glasgow,,G51 4SY,55.8651524,-4.3567995
+Thyme,Glasgow Airport,White Cart Road,Paisley,Renfrewshire,PA3 2TH,55.862149,-4.4258548
+Thyme,Argyle Street,,Glasgow,Glasgow City,G2 8LL,55.8588981,-4.2642638
+Thyme,West Nile Street,,Glasgow,Glasgow City,G1 2RN,55.8648154,-4.2543459
+Thyme,Elmbank Gardens,,Glasgow,Glasgow City,G2 4PP,55.8649377,-4.269685300000001
+Thyme,George Street,,Glasgow,Glasgow City,G1 1YU,55.860778,-4.2451465
+Thyme,Ballater Street,,Glasgow,Glasgow City,G5 0TW,55.8509063,-4.2510792
+Thyme,Pacific Quay,,Glasgow,Glasgow City,G51 1DA,55.857353,-4.2911866
+Thyme,Harrogate HG1 2HU,,Harrogate,North Yorkshire,HG1 2HU,53.9969639,-1.5442531
+Thyme,Perrymount Road,,Haywards Heath,West Sussex,RH16 3DN,51.0036421,-0.1032305
+Thyme,A41 Service Area,Bourne End,Hemel Hempstead,Hertfordshire,HP1 2SB,51.7416426,-0.5298221
+Thyme,Hereford HR4 9JU,,Hereford,Herefordshire,HR4 9JU,52.0608355,-2.7171735
+Thyme,Dovecot Road,,High Wycombe,Buckinghamshire,HP13 5HL,51.6318794,-0.7531505
+Thyme,Portmill Lane,,Hitchin,Hertfordshire,SG5 1DJ,51.9482708,-0.2753515
+Thyme,Parc Cybi,,Holyhead,Ynys Môn,LL65 2UQ,53.2979157,-4.6233773
+Thyme,Turks Head Lane,,Honiton,Devon,EX14 1BQ,50.7956781,-3.2058677
+Thyme,Tower Street,,Hull,Kingston upon Hull,HU9 1TQ,53.7417863,-0.3284596
+Thyme,18 Millburn Road,,Inverness,Highland Council,IV2 3QX,57.4824177,-4.2049008
+Thyme,19-21 Huntly Street,,Inverness,Highland Council,IV3 5PR,57.47734750000001,-4.2294417
+Thyme,Claydon,Claydon,Ipswich,Suffolk,IP6 0BE,52.0991556,1.1076014
+Thyme,Key Street,,Ipswich,Suffolk,IP4 1BZ,52.05311260000001,1.1583371
+Thyme,Hepworth Point,Clay Pit Lane,Leeds,West Yorkshire,LS2 8BQ,53.8042908,-1.5439243
+Thyme,1 Whitehall Riverside Lower,Wortley,Leeds,West Yorkshire,LS1 4EQ,53.7951623,-1.55387
+Thyme,Headingley,Headingley,Leeds,West Yorkshire,LS6 2UU,53.82270949999999,-1.5785296
+Thyme,Ashbourne Road,,Leek,Staffordshire,ST13 5AS,53.1053609,-2.0198993
+Thyme,1A Saint Georges Way,,Leicester,,LE1 1AA,52.6325102,-1.125939
+Thyme,Braunstone Lane East,,Leicester,,LE3 2FW,52.6122465,-1.165055
+Thyme,Old court house,Court Road,Lewes,East Sussex,BN7 2PG,50.8733575,0.0151218
+Thyme,Swan Road,,Lichfield,Staffordshire,WS13 6QZ,52.682075,-1.8317984
+Thyme,Broadgate,,Lincoln,Lincolnshire,LN2 5AQ,53.2296342,-0.536091
+Thyme,Britannia Building,Albert Dock,Liverpool,Merseyside,L3 4AD,53.399322,-2.991553
+Thyme,4 Bolton Street,,Liverpool,Merseyside,L3 5LX,53.4065759,-2.9783826
+Thyme,Hanover Street,,Liverpool,Merseyside,L1 4AF,53.4034692,-2.9829922
+Thyme,3 Vernon Street,,Liverpool,Merseyside,L2 2AY,53.40911620000001,-2.9880211
+Thyme,Speke,Speke,Liverpool,Merseyside,L24 1YQ,53.341955,-2.8578678
+Thyme,18 Parkfield Street,,London,Greater London,N1 0PS,51.5348493,-0.1055235
+Thyme,Archway,,London,Greater London,N19 5PA,51.5657716,-0.1358459
+Thyme,Saint Mary at Hill,,London,Greater London,EC3R 8EE,51.509968,-0.083726
+Thyme,Highbridge Road,,Barking,Greater London,IG11 7BA,51.53419359999999,0.0718617
+Thyme,1-2 Dorset Rise,,London,Greater London,EC4Y 8EN,51.5129358,-0.1051185
+Thyme,Alfa Laval,Great West Road,London,Brentford,TW8 9AD,51.490856,-0.304908
+Thyme,434 Coldharbour Lane,,London,Greater London,SW9 8HH,51.4616443,-0.1144706
+Thyme,Westmoreland Road,,Bromley,Greater London,BR2 0QL,51.3986465,0.0144212
+Thyme,McCormack House Axis Centre,Hogarth Roundabout,London,Greater London,W4 2TH,51.4866398,-0.2540628
+Thyme,Corsham Street,,London,Greater London,N1 6DR,51.5274449,-0.0873655
+Thyme,22-24 Prescot Street,,London,Greater London,E1 8BB,51.5112164,-0.0716646
+Thyme,638-640 Wandsworth Road,,London,Greater London,SW8 3JW,51.4665042,-0.1497166
+Thyme,County Hall,Belvedere Road,London,Greater London,SE1 7PB,51.5024933,-0.1180123
+Thyme,Lansdowne Road,,Croydon,Greater London,CR0 2BX,51.3763113,-0.0962077
+Thyme,2,Festoon Way,London,Greater London,E16 1SL,51.507725,0.0387289
+Thyme,435 Burnt Oak Broadway,,Edgware,Greater London,HA8 5AQ,51.6081195,-0.2767863
+Thyme,Advent Way,,London,Greater London,N18 3AF,51.6122455,-0.0483198
+Thyme,Warwick Road,,Borehamwood,Hertfordshire,WD6 1US,51.658827,-0.254928
+Thyme,Sidcup Road,,London,Greater London,SE9 3NS,51.4338926,0.06620129999999999
+Thyme,1 Duke's Road,,London,Greater London,WC1H 9PJ,51.5277888,-0.1289873
+Thyme,Farringdon,,London,Greater London,EC1A 9HB,51.5176738,-0.1021145
+Thyme,Longbridge Way,Horley,Gatwick,West Sussex,RH6 0NX,51.164049,-0.173648
+Thyme,Crawley Business Quarter,Fleming Way,Crawley,West Sussex,RH10 9DF,51.134314,-0.1816499
+Thyme,Northway,Horley,Gatwick,West Sussex,RH6 0PH,51.1618361,-0.1745793
+Thyme,43-81 Greenwich High Road,,London,Greater London,SE10 8JL,51.4759003,-0.0197732
+Thyme,27 Dalston Lane,,London,Greater London,E8 3DF,51.5463366,-0.0733926
+Thyme,255 King Street,,London,Greater London,W6 9LU,51.4930651,-0.2386013
+Thyme,215 Haverstock Hill,,London,Greater London,NW3 4RB,51.5516029,-0.1673398
+Thyme,1-6 Ritz Parade,Hanger Lane,London,Greater London,W5 3RA,51.5288889,-0.2908333
+Thyme,15 Bath Road,,Hounslow,Greater London,TW6 2AB,51.4802088,-0.4246909
+Thyme,Shepiston Lane,Heathrow,Hayes,Greater London,UB3 1RW,51.4960081,-0.4479719
+Thyme,Hyde House,,London,Greater London,NW9 6LH,51.58509609999999,-0.2483048
+Thyme,27-29 Red Lion Street,,London,Greater London,WC1R 4PS,51.5200278,-0.1172275
+Thyme,Knaresborough Place,,London,Greater London,SW5 0TJ,51.4937485,-0.1907544
+Thyme,22-32 West Cromwell Road,,London,Greater London,SW5 9QJ,51.494295,-0.1972764
+Thyme,52 High Street,,Brentford,Greater London,TW8 0BB,51.4849914,-0.3010783
+Thyme,Kingston upon Thames KT1 2PA,,Kingston upon Thames,Greater London,KT1 2PA,51.40946510000001,-0.3010143
+Thyme,1-13 Lewisham High Street,,London,Greater London,SE13 5AF,51.4650654,-0.0108172
+Thyme,Walnuts Road,,Orpington,Greater London,BR6 0TW,51.3772899,0.1020594
+Thyme,3 Putney Bridge Approach,,London,Greater London,SW6 3JD,51.46810600000001,-0.210732
+Thyme,Lower Mortlake Road,,Richmond,Greater London,TW9 2JZ,51.4662879,-0.2917017
+Thyme,Station Road,,Sidcup,Greater London,DA15 7BS,51.4333649,0.1022896
+Thyme,John Bradshaw Road,,London,Greater London,N14 6BN,51.6312496,-0.1270794
+Thyme,London SE1 0FL,,London,Greater London,SE1 0FL,51.5050407,-0.1008032
+Thyme,88 Euston Road,,London,Greater London,NW1 2RA,51.52867209999999,-0.1268753
+Thyme,Thremhall Avenue,,Stansted,Essex,CM24 1PY,51.87538499999999,0.245153
+Thyme,London E20 1EE,,London,Greater London,E20 1EE,51.5440884,-0.0097251
+Thyme,Station Road,,London,Greater London,N17 9LR,51.5888775,-0.062821
+Thyme,159 Tower Bridge Road,,London,Greater London,SE1 3LP,51.4993294,-0.0792754
+Thyme,82 - 83 Eccleston Square,Gillingham Street,London,Greater London,SW1V 1PS,51.4930959,-0.1428228
+Thyme,45 Garratt Lane,,London,Greater London,SW18 4AD,51.45457889999999,-0.1917372
+Thyme,Wembley Park,Wembley Park,Wembley,Greater London,HA9 0GG,51.5615071,-0.2796787
+Thyme,Wembley Park Drive,Wembley Park,Wembley,Greater London,HA9 8HQ,51.5622426,-0.2814404
+Thyme,27 Chapter Way,,London,Greater London,SW19 2RF,51.4141209,-0.1805125
+Thyme,Southfield Road,,Loughborough,Leicestershire,LE11 9SA,52.7685452,-1.2053565
+Thyme,Regent Street,,Luton,,LU1 5FA,51.8771254,-0.4180993
+Thyme,Maidenhead SL6 8TZ,,Maidenhead,Windsor and Maidenhead,SL6 8TZ,51.5238832,-0.7215744
+Thyme,London Road,,Maidstone,Kent,ME16 8HR,51.2717118,0.5138509
+Thyme,Townsend Way,,Malvern,Worcestershire,WR14 1GD,52.1275229,-2.3007734
+Thyme,Irwell Street,,Salford,Greater Manchester,M3 5EN,53.4809486,-2.2567287
+Thyme,Runger Lane,Wilmslow Old Road,Manchester,Greater Manchester,M90 5DL,53.36396209999999,-2.2936668
+Thyme,Runger Lane,Wilmslow Old Road,Manchester,Greater Manchester,M90 5DL,53.36396209999999,-2.2936668
+Thyme,Salford M3 5AS,,Salford,Greater Manchester,M3 5AS,53.4849399,-2.2466861
+Thyme,8 Medlock Street,,Manchester,Greater Manchester,M15 5FJ,53.4714209,-2.2474581
+Thyme,72 Dale Street,,Manchester,Greater Manchester,M1 2HR,53.4797411,-2.2322407
+Thyme,112-114 Portland Street,,Manchester,Greater Manchester,M1 4WB,53.47671589999999,-2.2418648
+Thyme,Sir Alex Ferguson Way,Trafford Park,Stretford,Manchester,M17 1WS,53.4657401,-2.2887015
+Thyme,Blue Media City,,Salford,Greater Manchester,M50 2AB,53.4736577,-2.3018239
+Thyme,Trafford Park,Trafford Park,Stretford,Manchester,M17 8PG,53.467005,-2.357691
+Thyme,Bakewell Road,,Matlock,Derbyshire,DE4 3AZ,53.1440126,-1.5701185
+Thyme,Wilson Street,,Middlesbrough,,TS1 1AE,54.5768098,-1.2305346
+Thyme,801 Avebury Boulevard,,Milton Keynes,,MK9 3JT,52.0431819,-0.7493345
+Thyme,Castle Close,,Monmouth,Monmouthshire,NP25 5UG,51.8055678,-2.7187187
+Thyme,Pinchington Lane,,Newbury,West Berkshire,RG14 7HL,51.3817165,-1.3181568
+Thyme,Lombard Street,,Newcastle upon Tyne,Tyne and Wear,NE1 3AE,54.9686685,-1.6064393
+Thyme,Gateshead NE11 0BE,,Gateshead,Tyne and Wear,NE11 0BE,54.9424356,-1.6247592
+Thyme,Newcastle upon Tyne NE20 9DB,,Newcastle upon Tyne,,NE20 9DB,55.0362424,-1.7154743
+Thyme,City Road,,Newcastle upon Tyne,Tyne and Wear,NE1 2AN,54.9723137,-1.5958658
+Thyme,Swan Street,,Northampton,Northamptonshire,NN1 1FA,52.2354363,-0.8933452
+Thyme,Duke Street,,Norwich,Norfolk,NR3 3AP,52.6325791,1.2929561
+Thyme,Nottingham NG2 4UU,,Nottingham,,NG2 4UU,52.9493129,-1.1400014
+Thyme,Nottingham NG1 5LT,,Nottingham,,NG1 5LT,52.9575556,-1.1549528
+Thyme,Mill Street,,Perth,Perth and Kinross,PH1 5HZ,56.3975489,-3.429368
+Thyme,Norman Cross,Norman Cross,Peterborough,,PE7 3TB,52.50617270000001,-0.288013
+Thyme,Cabot Lane,,Poole,Dorset,BH17 7BX,50.7432185,-1.9913101
+Thyme,Portsmouth PO6 4FB,,Portsmouth,,PO6 4FB,50.8460483,-1.0937573
+Thyme,1 Isambard Brunel Road,,Portsmouth,,PO1 2TR,50.7979504,-1.0909044
+Thyme,Langstone Road,,Havant,Hampshire,PO9 1SA,50.84664129999999,-0.9882297
+Thyme,Fox Street,,Preston,Lancashire,PR1 2AB,53.75845169999999,-2.7038823
+Thyme,Reading RG1 2HN,,Reading,,RG1 2HN,51.4520498,-0.9714018999999998
+Thyme,Business Park,Forest Gate Court,Ringwood,Hampshire,BH24 3AS,50.83987459999999,-1.7820888
+Thyme,Chariot Way,,Rochester,Medway,ME2 2SS,51.380559,0.4767940000000001
+Thyme,Harbour Road,,Seaton,Devon,EX12 2NA,50.704293,-3.0659325
+Thyme,Hitchen Hatch Lane,,Sevenoaks,Kent,TN13 3BE,51.27771730000001,0.1829984
+Thyme,Attercliffe Common,Road,Sheffield,South Yorkshire,S9 2FA,53.4014624,-1.4229613
+Thyme,Sheffield Road,,Sheffield,South Yorkshire,S9 2YL,53.40994749999999,-1.4068508
+Thyme,Angel Street,Sheffield City Centre,Sheffield,South Yorkshire,S3 8LN,53.3839017,-1.466323
+Thyme,Young Street,Broomhall,Sheffield,South Yorkshire,S1 4UP,53.3737799,-1.4761674
+Thyme,Uxbridge Road,,Slough,,SL1 1SU,51.509042,-0.5786669999999999
+Thyme,Windsor Road,,Slough,,SL1 2EL,51.506977,-0.5964917
+Thyme,Station Road,,Solihull,West Midlands,B91 3RX,52.41467410000001,-1.7817067
+Thyme,Swanland Road,,Potters Bar,Hertfordshire,EN6 3NH,51.6904745,-0.2239733
+Thyme,Southampton SO15 2WY,,Southampton,,SO15 2WY,50.9101317,-1.4075029
+Thyme,Mitchell Way,,Southampton,Hampshire,SO18 2XU,50.9486335,-1.3644987
+Thyme,6 New Road,,Southampton,,SO14 0AB,50.9071981,-1.3985219
+Thyme,Harbour Parade,,Southampton,,SO15 1BA,50.9019615,-1.4081072
+Thyme,1 Adelaide Street,,St Albans,Hertfordshire,AL3 5BH,51.7546584,-0.3371907
+Thyme,Largo Road,,St Andrews,Fife,KY16 8NH,56.3320397,-2.8045692
+Thyme,High Street,,Staines,Surrey,TW18 4DP,51.4345278,-0.5099268
+Thyme,Stevenage SG1 2DD,,Stevenage,Hertfordshire,SG1 2DD,51.8955632,-0.2124836
+Thyme,Stoke-on-Trent ST4 8JG,,Stoke-on-Trent,,ST4 8JG,52.96154929999999,-2.1953069
+Thyme,The Waterways,Birmingham Road,Stratford-upon-Avon,Warwickshire,CV37 0AZ,52.19727289999999,-1.7118067
+Thyme,68 Staines Road West,Shepperton,Sunbury-on-Thames,Surrey,TW16 7AT,51.41944059999999,-0.4224432
+Thyme,Sunderland SR1 3QD,,Sunderland,Tyne and Wear,SR1 3QD,54.9059312,-1.3909042
+Thyme,Tenby SA70 7ET,,Tenby,Pembrokeshire,SA70 7ET,51.673361,-4.7022596
+Thyme,Stonehouse Lane,West Thurrock,Purfleet,Thurrock,RM19 1NS,51.4861249,0.2638951
+Thyme,Tiverton EX16 6PP,,Tiverton,Devon,EX16 6PP,50.90154889999999,-3.4844823
+Thyme,Trowbridge BA14 8AH,,Trowbridge,Wiltshire,BA14 8AH,51.3186556,-2.2070148
+Thyme,North Lonsdale Terrace,,Ulverston,Cumbria,LA12 9AU,54.1965795,-3.081249
+Thyme,Manchester Road,Woolston,Warrington,,WA1 4GB,53.3982485,-2.5143254
+Thyme,40,Haywood Road,Warwick,Warwickshire,CV34 5AH,52.2915956,-1.6041971
+Thyme,69 Water Lane,,Watford,Hertfordshire,WD17 2NJ,51.6544472,-0.3875577
+Thyme,Rowdens Road,,Wells,Somerset,BA5 1UA,51.20309040000001,-2.6488789
+Thyme,High Street,,West Bromwich,West Midlands,B70 6JJ,52.5156815,-1.9893463
+Thyme,Wigan WN1 1BL,,Wigan,Greater Manchester,WN1 1BL,53.5437277,-2.6274691
+Thyme,Caledonia House,Winnall Manor Road,Winchester,Hampshire,SO23 7RT,51.068068,-1.299169
+Thyme,Ducklington Lane,,Witney,Oxfordshire,OX28 4JF,51.779452,-1.4935065
+Thyme,Church Street West,,Woking,Surrey,GU21 6HT,51.3184785,-0.5620113
+Thyme,Worcester WR2 4QQ,,Worcester,Worcestershire,WR2 4QQ,52.1894482,-2.2282091
+Thyme,Worthing BN11 3QJ,,Worthing,West Sussex,BN11 3QJ,50.8082177,-0.3813394
+Thyme,Jacques Way,,Wrexham,Wrexham Principal Area,LL11 2BY,53.04935949999999,-3.0027187
+Thyme,York YO23 3PP,,York,North Yorkshire,YO23 3PP,53.9082606,-1.1812013
+Thyme,Redcliffe,Redcliffe,Bristol,Bristol City,BS1 6LQ,51.4539066,-2.5884722
+Thyme,Bute Place,,Cardiff,,CF10 4AA,51.4654355,-3.16188
+Thyme,Park Way,,Newbury,West Berkshire,RG14 1EE,51.40557159999999,-1.3222482
+Thyme,40 Liverpool Road,,Slough,,SL1 4QZ,51.52062129999999,-0.624629
+Thyme,Addlestone KT15 2AH,,Addlestone,Surrey,KT15 2AH,51.3707367,-0.490616
+Thyme,Aviemore PH22 1PX,,Aviemore,Highland Council,PH22 1PX,57.1796774,-3.8334936
+Thyme,Bangor BT20 4TH,,Bangor,Ards and North Down,BT20 4TH,54.65332919999999,-5.66297
+Thyme,Elder Way,,Chesterfield,Derbyshire,S40 1UN,53.2372834,-1.4279764
+Thyme,Station Road,,Letchworth Garden City,Hertfordshire,SG6 3BG,51.9805088,-0.226738
+Thyme,12 Kingston Road,Tolworth,Chessington,Surbiton,KT5 9NU,51.3765667,-0.2783411
+Thyme,Newquay TR7 2PR,,Newquay,Cornwall,TR7 2PR,50.4165755,-5.0733098
+Thyme,Shore Street,,Oban,Argyll and Bute Council,PA34 4NT,56.4116949,-5.4746195
+Thyme,Market Jew Street,Station Road,Penzance,Cornwall,TR18 2LQ,50.1214245,-5.5328957
+Thyme,Tunbridge Wells TN1 1DN,,Tunbridge Wells,Kent,TN1 1DN,51.1299944,0.2601228
+Thyme,Peters Finger Road,,Salisbury,Wiltshire,SP1 2FF,51.06141599999999,-1.7740095
+Thyme,Gonvena Hill,,Wadebridge,Cornwall,PL27 6BN,50.5228169,-4.8237382
+Thyme,Edinburgh EH12 9FX,,Edinburgh,,EH12 9FX,55.9283651,-3.3104655
+ZIP by Premier Inn,Ipswich Road,,Cardiff,,CF23 9AQ,51.5031483,-3.1456062
+Bar + Block Bristol,King Street,,Bristol,,BS1 4ER,51.451881,-2.592827
+Bar + Block Nottingham,7 Chapel Quarter,Chapel Bar,Nottingham,Nottinghamshire,NG1 6JS,52.954122,-1.154669
+Bar + Block Sutton,St Nicholas Way,,Sutton,,SM1 1EH,51.363527,-0.194322
+Beefeater Birmingham South - Longbridge Station,1 High Street,Longbridge Town Centre,Birmingham,,B31 2UQ,52.395406,-1.984922
+Beefeater Coombe Lodge,104 Coombe Road,,Croydon,Surrey,CR0 5RB,51.362506,-0.071518
+Beefeater Great Yarmouth Seafront,South Beach Parade,,Great Yarmouth,Norfolk,NR30 3QN,52.590423,1.735913
+Beefeater Oakley Hay,2 Little Colliers Field,Great Oakley,Corby,Northants,NN18 8TJ,52.459329,-0.734945
+Beefeater Red Lion - Blackpool,Devonshire Road,Bispham,Bispham,Blackpool,FY2 0AR,53.855008,-3.039694
+Beefeater Sir Thomas Wyatt,London Road,,Maidstone,Kent,ME16 0HG,51.287199,0.490982
+Beefeater The Albert,Cowdray Avenue,,Colchester,Essex,CO1 1UT,51.897640,0.896214
+Beefeater The Applecart,Milton Interchange,Milton,Abingdon,Oxon,OX14 4DP,51.618608,-1.298681
+Beefeater The Beacon,Halcrow Avenue,,Dartford,Kent,DA1 5FX,51.456634,0.239033
+Beefeater The Dovecote,4 South Muirhead Road,,Cumbernauld,Glasgow,G67 1AX,55.950523,-3.984638
+Beefeater West Highland Gate,103 Main Street,,Milngavie,Glasgow,G62 6JQ,55.934784,-4.316177
+Brewers Fayre Barry Island (Cardiff Airport),Triangle Site,Fford Y Mileniwm the Waterfront,Barry,,CF62 5QN,51.399593,-3.276772
+Brewers Fayre Catterick Garrison,Unit 23,"Princes Gate Shopping Park, Richmond Road",Catterick Garrison,North Yorkshire,DL9 3BA,54.376404,-1.723499
+Brewers Fayre Cleethorpes,Meridian Point,Kings Road,Cleethorpes,,DN35 0AO,53.543295,-0.010883
+Brewers Fayre Great Yarmouth,Runham Road,,Great Yarmouth,Norfolk,NR30 1DH,52.615522,1.720307
+Brewers Fayre Oakenhurst Farm,Riversway Drive,Off Eccleshill Road,Lower Darwen,Blackburn,BB3 0SN,53.717411,-2.474804
+Table Table French Connection,Hall Avenue,Orbital Retail Park,Sevington,Ashford,TN24 0GN,51.127471,0.899472
+Table Table Trevithick Inn,Treswithian Road,,Camborne,Cornwall,TR14 7NF,50.216428,-5.317857
+"Breakfast Room, Premier Inn Basildon (Rayleigh)",Rayleigh Weir,Arterial Road (A127),Rayleigh,Essex,SS6 7XJ,51.577294,0.600491
+"Lounge Bar, Premier Inn Edinburgh (Haymarket) - hub by Premier Inn",Torphichen Street,,Edinburgh,,EH3 8JP,55.946847,-3.213093
+"The Kitchen, Premier Inn Kidderminster",Slingfield Mill,Weavers Wharf,Kidderminster,Worcestershire,DY11 6YR,52.386660,-2.251709
+"The Kitchen, Premier Inn Telford (The International Centre)",Southwater Square,,Telford,Shropshire,TF3 4EJ,52.673835,-2.447525
+"Thyme, Premier Inn Belfast Titanic Quarter",Titanic Quarter,2a Queens Road,Belfast,Northern Ireland,BT3 9FB,54.603841,-5.912782
+"Thyme, Premier Inn Brentwood",Brentwood House,169 Kings Road,Brentwood,Essex,CM14 4EF,51.614891,0.299069
+"Thyme, Premier Inn Bury St Edmunds Town Centre",Raingate Street,,Bury St Edmunds,Suffolk,IP33 2AR,52.242299,0.720232
+"Thyme, Premier Inn Chipping Norton",Spring Street,,Chipping Norton,Oxfordshire,OX7 5LM,51.944840,-1.544319
+"Thyme, Premier Inn Hemel Hempstead Central",Moor End Road,,Hemel Hempstead,Herts,HP1 1DL,51.747950,-0.474013
+"Thyme, Premier Inn Leeds City (Elland Road)",City West One Office Park,Gelderd Road,Leeds,West Yorkshire,LS12 6LS,53.777186,-1.580372
+"Thyme, Premier Inn London Ealing",22-24 Uxbridge Road,,Ealing,London,W5 2SR,51.512746,-0.309976
+"Thyme, Premier Inn London Heathrow Airport T5",420 Bath Road,,Longford,West Drayton,UB7 0RF,51.481858,-0.481813
+"Thyme, Premier Inn London Heathrow Airport T4",Sheffield Road,,Hounslow,Middlesex,TW6 3SY,51.459683,-0.439901
+"Thyme, Premier Inn London Waterloo",York Road,,Waterloo,London,SE1 7NY,51.501891,-0.116512
+"Thyme, Premier Inn Manchester Bury",5 Knowsley Place,Duke Street,Bury,,BL9 0EJ,53.589973,-2.298157
+"Thyme, Premier Inn Marlborough",Jennings Road,,Marlborough,Wiltshire,SN8 4WL,51.415323,-1.722734
+"Thyme, Premier Inn Plymouth City Centre (Sutton Harbour)",28 Sutton Road,,Plymouth,Devon,PL4 0HX,50.368497,-4.129101
+"Thyme, Premier Inn Shrewsbury Town Centre",Smithfield Road,,Shrewsbury,Shropshire,SY1 1QB,52.710828,-2.753291
+"Thyme, Premier Inn Thirsk",Sowerby Gateway,,Thirsk,North Yorkshire,YO7 1FA,54.218941,-1.353090
+"Thyme, Premier Inn Wokingham Town Centre",Wellington Road,,Wokingham,,RG40 2EX,51.408145,-0.837412
+"Thyme, Premier Inn Bridgwater Gateway (M5 J24)",Poplar Court,North Petherton,Bridgwater,Somerset,TA6 6ZG,51.101502,-3.001705
+"Thyme, Premier Inn London New Southgate",2 Station Road,,New Southgate,London,N11 1QA,51.611448,-0.135987
