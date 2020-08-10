@@ -1,6 +1,6 @@
 # Eat Out to Help Out Restaurant Map - Disclaimer
 
-> TL;DR: If a restaurant is listed on this map, it is ***not a guarantee*** that it is participating in the Eat Out to Help Out scheme.
+> TL;DR: If a restaurant is listed on this map, it is ***not a guarantee*** that it is participating in the Eat Out to Help Out scheme. Some restaurants that *are* participating in the scheme may not be listed on this map.
 
 Due to the nature of sourcing this information, there are likely to be some mistakes in the data presented, particularly with regards to chain restaurants (see [SOURCES.md](/source-information/SOURCES.md) for more information about this).
 
